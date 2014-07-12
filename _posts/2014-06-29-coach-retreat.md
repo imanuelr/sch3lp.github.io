@@ -10,7 +10,7 @@ At the end of the day, I expected to have learned a couple new things about coac
 
 ## Format
 
-The Coach Retreat concept was brought to life, among others, by Yves Hanoulle ([@YvesHanoulle](http://twitter.com/)) and Oana Juncu ([@ojuncu](http://twitter.com/)), inspired by Corey Haines ([@coreyhaines](http://twitter.com/)) and Rachel C. Davies ([@rachelcdavies](http://twitter.com/)).
+The Coach Retreat concept was brought to life, among others, by Yves Hanoulle ([@YvesHanoulle](http://twitter.com/YvesHanoulle)) and Oana Juncu ([@ojuncu](http://twitter.com/ojuncu)), inspired by Corey Haines ([@coreyhaines](http://twitter.com/coreyhaines)) and Rachel C. Davies ([@rachelcdavies](http://twitter.com/rachelcdavies)).
 
 Both Inge Gorgon and Yves Hanoulle, the two facilitators for the day, I consider skillful coaches. They helped keep the groups focused on the exercise at hand and gave a lot of insight based on their own experiences in the real world. This stuff alone is worth it in my humble opinion.
 
