@@ -80,7 +80,7 @@ While trying to add more events, we noticed that we were struggling with the gra
 
 This struggle did lead us to a small discussion on language we used for some events. We knew we had to use verbs in the past tense, but there was one specific case that I thought was interesting. Interesting because we discovered it so early.
 We had an event that read *1 hazard card to fight chosen* which got turned into *Challenge (with chosen card) started*. Can you see how different that sounds? It's basically the same step in the game, except the first notation seems too fine grained, whereas the second one seems to be more coarse-grained but also more clear and says more about the game or of a next phase in the game.
-![Ubiquitous language]({{site.url}}/public/assets/2014-07-12-event-storming-exercise/ubiquitous-language.jpg)
+[![Ubiquitous language]({{site.url}}/public/assets/2014-07-12-event-storming-exercise/ubiquitous-language.jpg)]({{site.url}}/public/assets/2014-07-12-event-storming-exercise/ubiquitous-language.jpg)
 
 Another thing we were struggling with was the concept of iterations of commands/events. For example, when you've gone through a deck of cards the next level starts (it becomes more difficult) and a big chain of events starts all over again. We didn't know how to make that visible on our wall, or even if we should make it visible at all.
 After some discussion we decided to simply not model it, because the events should speak for themselves. You don't really need an arrow pointing from somewhere in the middle of your "timeline" back to the front to indicate starting over again.
@@ -98,7 +98,7 @@ We also noticed that our discussions were taking longer and longer. The action w
 
 ## A little breaky break
 
-![Breaky break]({{site.url}}/public/assets/2014-07-12-event-storming-exercise/wall-before-break.jpg)
+[![Breaky break]({{site.url}}/public/assets/2014-07-12-event-storming-exercise/wall-before-break.jpg)]({{site.url}}/public/assets/2014-07-12-event-storming-exercise/wall-before-break.jpg)
 We just finished putting up one "iteration" of the game. Our process on the wall at this stage ends with "Danger Level Raised". And we take a coffee break away from the wall and talk about this and that.
 However, when we got back in the room and tried to restart our think-engines and get back in the flow, we found it wasn't all that easy to get back into it. Did this have to do with having too specific events? Or maybe it didn't mean anything at all?
 
@@ -109,7 +109,7 @@ We were now at the stage where we were tackling the multiple stage concept of th
 ## Using the "UI"
 
 At some point we went back to the tabletop that had our complete game set-up to continu our though about the process and to use proper names. 
-![Annotated tabletop of Friday]({{site.url}}/public/assets/2014-07-12-event-storming-exercise/friday.jpg)
+[![Annotated tabletop of Friday]({{site.url}}/public/assets/2014-07-12-event-storming-exercise/friday.jpg)]({{site.url}}/public/assets/2014-07-12-event-storming-exercise/friday.jpg)
 Because we did this we got some extra insight that helped us along. We compared this with how Alberto talks about making little "UI" cards that should explain what decisions a user can take based on what information he sees. This further clarifies some events and is obviously helpful in that way.
 This did make us come back from our earlier strategy to only add events that were based on UI decisions, because you might miss some important ones actually.
 
@@ -117,7 +117,7 @@ This did make us come back from our earlier strategy to only add events that wer
 
 When we had to stop for the day we think we managed to complete the short process of Friday in a visual chain of events on our wall. We all agreed that this was time well-spent, learning a lot. But nevertheless something we need to practice more if we want to do this exercise with one of our real customers at some point.
 
-![The Result]({{site.url}}/public/assets/2014-07-12-event-storming-exercise/wall-end.jpg)
+[![The Result]({{site.url}}/public/assets/2014-07-12-event-storming-exercise/wall-end.jpg)]({{site.url}}/public/assets/2014-07-12-event-storming-exercise/wall-end.jpg)
 
 ## Take-aways
 
