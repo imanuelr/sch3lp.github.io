@@ -1,3 +1,7 @@
+---
+layout: post
+title: Coach Retreat
+---
 Yesterday I went to the Coach Retreat in Leuven, hosted by [Cegeka](http://www.cegeka.be). Here's a little report on my personal view of the event.
 
 ## My expectations
