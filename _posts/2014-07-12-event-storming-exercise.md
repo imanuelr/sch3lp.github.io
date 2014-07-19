@@ -27,9 +27,11 @@ In this blog post I'll list all of the stuff we noticed during our day of learni
 
 We had some discussion when we got together in the morning that brought us to a couple of questions:
 
-* Reactive Programming is not the same as Event Sourcing, but they're alike. But what is the relation between these two?
+* Reactive Programming is not the same as an Event Driven Architecture, but they're alike. But what is the relation between these two?
+* To start using Event Driven Architecture one would normally start with Domain Events, can Event Storming help facilitate with that?
 * Is EventStorming used to *model* a problem? Or just to model a flow? Or is it maybe a way to *explore* a process or a problem space?
 * When multiple events need to be gathered before something else can happen, what do you call that? Someone suggested a "coordinator", which seemed like a very specific name, where does that word come from? Enterprise Integration Patterns maybe? Does EIP also align with Reactive Programming?
+* What should granularity of our events look like? Is it sufficient to write down "Car was started"? Or do we write "Engine started", "Fuel injected", "Spark fired", ... ?
 
 ## Alberto's Event Storming Recipes
 
@@ -74,9 +76,38 @@ In the presentation we learned that we should start putting events as orange pos
 
 A question that arose after adding commands was of course "Who dishes out these commands? How does a conversation with the system work? Does every command need an actor or are commands by the system just implicit?".
 
+## Back to just events
+
+We already noted that we seemed to be biased by our daily jobs (coding). Somehow this brought to our attention that we should stick to the gameplan more strictly. So we got rid of all our commands we already put on the wall and started adding more events again and decided commands would come later, they're less important. And it's true, events sketch out the broader context that clarifies earlier events sometimes and you can more easily rearrange your timeline. Another benefit is that when you already have commands in place, you're less inclined to change up your wall because of the "work" you've already put into it and also because you're too lazy to rearrange double the amount of post-its. Kind of like [the fallacy of sunken cost](http://en.wikipedia.org/wiki/Sunk_costs).
+
+We also noticed that our discussions were taking longer and longer. The action we took was to just keep multiple cards and replace them when we re-iterated over our process at a later stage. Some "double" notes we could take away or replace once we were a little further down the chain. So that verified our hunch.
+
+## A little breaky break
+
+[![Breaky break]({{site.url}}/public/assets/2014-07-12-event-storming-exercise/wall-before-break.jpg)]({{site.url}}/public/assets/2014-07-12-event-storming-exercise/wall-before-break.jpg)
+We just finished putting up one "iteration" of the game. Our process on the wall at this stage ends with "Danger Level Raised". We took a coffee break - away from the wall - and talked about this and that.
+However, when we got back in the room and tried to restart our think-engines and get back in the flow, we found it wasn't all that easy to get back into it. Did this have to do with having too specific events? Or maybe it didn't mean anything at all?
+
+## Optional commands and gesturing
+
+We were now at the stage where we were tackling the multiple stage concept of the game. The discussion we had was about what *parts* of our process were going to be iterated over. There was a clear need for splitting one straight timeline into two or more separate ones. I noticed we were *cutting* parts of the wall with our hand-gestures. Both round and straight. Alberto also talks about this as well in his talk. It just helps visualize what you want to do easily. It's clear enough for everyone in the room what parts you're separating.
+
+## Using the "UI"
+
+At some point we went back to the tabletop that had our complete game set-up to continue our thought about the process and to use proper names. 
+[![Annotated tabletop of Friday]({{site.url}}/public/assets/2014-07-12-event-storming-exercise/friday.jpg)]({{site.url}}/public/assets/2014-07-12-event-storming-exercise/friday.jpg)
+Because we did this we got some extra insight that helped us along. We compared this with how Alberto talks about making little "UI" cards that should explain what decisions a user can take based on what information he sees. This further clarifies some events and is obviously helpful in that way.
+This did make us come back from our earlier strategy to only add events that were based on UI decisions, because you might miss some important ones actually.
+
+## End times
+
+When we had to stop for the day we think we managed to complete the short process of Friday in a visual chain of events on our wall. We all agreed that this was time well-spent, learning a lot. But nevertheless something we need to practice more if we want to do this exercise with one of our real customers at some point.
+
+[![The Result]({{site.url}}/public/assets/2014-07-12-event-storming-exercise/wall-end.jpg)]({{site.url}}/public/assets/2014-07-12-event-storming-exercise/wall-end.jpg)
+
 ## Struggling
 
-While trying to add more events, we noticed that we were struggling with the granularity of the events. Because we are all programmers, we sometimes had the impulse to add events that said something like "card turned", which might be too fine-grained to see our process clearly. When we did eventually notice thise, we decided to tune it back a little and replaced some events that were already on the wall or simply got rid of them. Our general rule was "decisions that are taken based on the UI, we don't put up as events".
+While trying to add more events, we noticed that we were struggling with the granularity of the events. Because we are all programmers, we sometimes had the impulse to add events that said something like "card turned", which might be too fine-grained to see our process clearly. When we did eventually notice those, we decided to tune it back a little and replaced some events that were already on the wall or simply got rid of them. Our general rule was "decisions that are taken based on the UI, we don't put up as events".
 
 This struggle did lead us to a small discussion on language we used for some events. We knew we had to use verbs in the past tense, but there was one specific case that I thought was interesting. Interesting because we discovered it so early.
 We had an event that read *1 hazard card to fight chosen* which got turned into *Challenge (with chosen card) started*. Can you see how different that sounds? It's basically the same step in the game, except the first notation seems too fine grained, whereas the second one seems to be more coarse-grained but also more clear and says more about the game or of a next phase in the game.
@@ -90,35 +121,6 @@ Yet another thing we found difficult to model was conditionals, which might agai
 
 At this point we were all agreeing that we're missing someone that could provide us with some guidance with this event storming stuff.
 
-## Back to just events
-
-We already noted that we seemed to be biased by our daily jobs (coding). Somehow this brought to our attention that we should stick to the gameplan more strictly. So we got rid of all our commands we already put on the wall and started adding more events again and decided commands would come later, they're less important. And it's true, events sketch out the broader context that clarifies earlier events sometimes and you can more easily rearrange your timeline. Another benefit is that when you already have commands in place, you're less inclined to change up your wall because of the "work" you've already put into it and also because you're too lazy to rearrange double the amount of post-its. Kind of like [the fallacy of sunken cost](http://en.wikipedia.org/wiki/Sunk_costs).
-
-We also noticed that our discussions were taking longer and longer. The action we took was to just keep multiple cards and replace them when we re-iterated over our process at a later stage. Some "double" notes we could take away or replace once we were a little further down the chain. So that verified our hunch.
-
-## A little breaky break
-
-[![Breaky break]({{site.url}}/public/assets/2014-07-12-event-storming-exercise/wall-before-break.jpg)]({{site.url}}/public/assets/2014-07-12-event-storming-exercise/wall-before-break.jpg)
-We just finished putting up one "iteration" of the game. Our process on the wall at this stage ends with "Danger Level Raised". And we take a coffee break away from the wall and talk about this and that.
-However, when we got back in the room and tried to restart our think-engines and get back in the flow, we found it wasn't all that easy to get back into it. Did this have to do with having too specific events? Or maybe it didn't mean anything at all?
-
-## Optional commands and gesturing
-
-We were now at the stage where we were tackling the multiple stage concept of the game. The discussion we had was about what *parts* of our process were going to be iterated over. There was a clear need for splitting one straight timeline into two or more separate ones. I noticed we were *cutting* parts of the wall with our hand-gestures. Both round and straight. Alberto also talks about this as well in his talk. It just helps visualize what you want to do easily. It's clear enough for everyone in the room what parts you're separating.
-
-## Using the "UI"
-
-At some point we went back to the tabletop that had our complete game set-up to continu our though about the process and to use proper names. 
-[![Annotated tabletop of Friday]({{site.url}}/public/assets/2014-07-12-event-storming-exercise/friday.jpg)]({{site.url}}/public/assets/2014-07-12-event-storming-exercise/friday.jpg)
-Because we did this we got some extra insight that helped us along. We compared this with how Alberto talks about making little "UI" cards that should explain what decisions a user can take based on what information he sees. This further clarifies some events and is obviously helpful in that way.
-This did make us come back from our earlier strategy to only add events that were based on UI decisions, because you might miss some important ones actually.
-
-## End times
-
-When we had to stop for the day we think we managed to complete the short process of Friday in a visual chain of events on our wall. We all agreed that this was time well-spent, learning a lot. But nevertheless something we need to practice more if we want to do this exercise with one of our real customers at some point.
-
-[![The Result]({{site.url}}/public/assets/2014-07-12-event-storming-exercise/wall-end.jpg)]({{site.url}}/public/assets/2014-07-12-event-storming-exercise/wall-end.jpg)
-
 ## Take-aways
 
 * When you recognize you've got *Event* leads to *Process manager* leads to *Command*, you basically got stuck into thinking imperatively again.
@@ -127,8 +129,11 @@ When we had to stop for the day we think we managed to complete the short proces
 
 ## Questions unanswered
 
-We knew of some projects that already used Domain Events and/or Event Sourcing. How did they got to their events? Did they also model this at first somehow?
-Did they ever model an event that ended up being 4 separate events? And how much of a problem was it to modify their code at that point?
+How do you properly use the result of an Event Storming session to produce stories?
+Can you write your implementation completely based on the events you put up during the session?
+Can you write a "walking skeleton" from the global event flow and do you use this to hook your story implementations on? Or is that considered to be too much of an upfront design?
+We know of some projects that already used Domain Events and/or Event Sourcing. How did they end up with their events? Did they also model this first somehow?
+Did they ever model an event that ended up being 4 separate events? And how much of a problem was it to modify their code at that point? Or did they ever model events that ended up being irrelevant? Or vice versa, did they miss events that ended up being super important?
 For me personally there's still some unclarity on commands and how to properly position your events when your straight timeline splits up into multiple ones. Can you just put those separate flows anywhere, because the eventstorming session  only serves to make a mental picture?
 
 ## What's next?
