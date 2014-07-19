@@ -7,6 +7,8 @@ As I'm currently in between projects at [Cegeka](http://www.cegeka.be) and I jus
 I got to factor in a day of learning along with other developers last friday.
 And boy oh boy was it worthwile.
 
+TL;DR? Skip to the [Struggling](#Struggling) part.
+
 ## Event Storming
 
 Last year at Vaughn Vernon's ([@VaughnVernon](http://twitter.com/VaughnVernon)) 3-day Implementing DDD course, there was a part where Alberto Brandolini ([@ziobrando](http://twitter.com/ziobrando)) gave a workshop on what he called "Event Storming". Over the year the term has gotten some attention [here](http://ziobrando.blogspot.be/2013/11/introducing-event-storming.html#.U8GUcPmSzIU) and [there](http://verraes.net/2013/08/facilitating-event-storming/). There's even a twitter account made: [@EventStorming](https://twitter.com/eventstorming).
@@ -105,7 +107,7 @@ When we had to stop for the day we think we managed to complete the short proces
 
 [![The Result]({{site.url}}/public/assets/2014-07-12-event-storming-exercise/wall-end.jpg)]({{site.url}}/public/assets/2014-07-12-event-storming-exercise/wall-end.jpg)
 
-## Struggling
+## Struggling<a name="Struggling">&nbsp;</a>
 
 While trying to add more events, we noticed that we were struggling with the granularity of the events. Because we are all programmers, we sometimes had the impulse to add events that said something like "card turned", which might be too fine-grained to see our process clearly. When we did eventually notice those, we decided to tune it back a little and replaced some events that were already on the wall or simply got rid of them. Our general rule was "decisions that are taken based on the UI, we don't put up as events".
 
