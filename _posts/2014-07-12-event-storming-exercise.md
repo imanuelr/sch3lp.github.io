@@ -130,12 +130,12 @@ At this point we were all agreeing that we're missing someone that could provide
 
 ## Questions unanswered
 
-How do you properly use the result of an Event Storming session to produce stories?
-Can you write your implementation completely based on the events you put up during the session?
-Can you write a "walking skeleton" from the global event flow and do you use this to hook your story implementations on? Or is that considered to be too much of an upfront design?
-We know of some projects that already used Domain Events and/or Event Sourcing. How did they end up with their events? Did they also model this first somehow?
-Did they ever model an event that ended up being 4 separate events? And how much of a problem was it to modify their code at that point? Or did they ever model events that ended up being irrelevant? Or vice versa, did they miss events that ended up being super important?
-For me personally there's still some unclarity on commands and how to properly position your events when your straight timeline splits up into multiple ones. Can you just put those separate flows anywhere, because the eventstorming session  only serves to make a mental picture?
+* How do you properly use the result of an Event Storming session to produce stories?
+* Can you write your implementation completely based on the events you put up during the session?
+* Can you write a "walking skeleton" from the global event flow and do you use this to hook your story implementations on? Or is that considered to be too much of an upfront design?
+* We know of some projects that already used Domain Events and/or Event Sourcing. How did they end up with their events? Did they also model this first somehow?
+* Did they ever model an event that ended up being 4 separate events? And how much of a problem was it to modify their code at that point? Or did they ever model events that ended up being irrelevant? Or vice versa, did they miss events that ended up being super important?
+* For me personally there's still some unclarity on commands and how to properly position your events when your straight timeline splits up into multiple ones. Can you just put those separate flows anywhere, because the eventstorming session  only serves to make a mental picture?
 
 ## What's next?
 
