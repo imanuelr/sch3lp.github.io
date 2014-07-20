@@ -12,3 +12,5 @@ I added average read time and [Disqus comments](https://disqus.com/) thanks to [
 ♥ Thanks for reading! ♥
 
 [GitHub](https://github.com/Sch3lp) • [Twitter](https://twitter.com/TimSchraepen) • [LinkedIn](https://www.linkedin.com/in/timschraepen)
+
+<img src="{{ site.author.avatar }}}" class="rounded"> 
