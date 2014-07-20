@@ -6,7 +6,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Sch3lp's Blog
+title:            Tim Schraepen's Blog
 tagline:          'Yet another java developers blog.'
 description:      'Blog of Tim Schraepen, java developer at Cegeka.'
 url:              http://sch3lp.github.io
