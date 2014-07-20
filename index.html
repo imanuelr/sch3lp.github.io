@@ -12,7 +12,8 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }} • {{ post.content | number_of_words | divided_by:180 }} minute read • <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.path | split:'/' | last | cgi_escape }}">Read the comments</a></span>
+    <span class="post-date">{{ post.date | date_to_string }} • {% capture readtime %}{{ post.content | number_of_words | plus:91 | divided_by:180 }}{% endcapture %}
+{% if readtime == '0' %} &lt; 1{% else %}{{ readtime }}{% endif %} min. read • <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.path | split:'/' | last | cgi_escape }}">Read the comments</a></span>
 
     {{ post.content }}
     
