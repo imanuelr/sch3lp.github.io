@@ -3,8 +3,7 @@ layout: post
 title: Event Storming Exercise
 published: true
 ---
-As I'm currently in between projects at [Cegeka](http://www.cegeka.be) and I just finished working on an RFP.
-I got to factor in a day of learning along with other developers last friday.
+As I'm currently in between projects at [Cegeka](http://www.cegeka.be) and just finished working on an RFP, I got to factor in a day of learning along with other developers last friday.
 And boy oh boy was it worthwile.
 
 TL;DR? Skip to the [Struggling](#Struggling) part.

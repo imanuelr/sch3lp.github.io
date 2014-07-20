@@ -7,4 +7,6 @@ This blog uses [Lanyon](http://lanyon.getpoole.com), a [Jekyll](http://jekyllrb.
 
 Learn more and contribute on [GitHub](https://github.com/poole).
 
+I added Social buttons and [Disqus comments](https://disqus.com/) thanks to [this helpful article](http://pixelcog.com/blog/2013/jekyll-from-scratch-extending-jekyll/).
+
 Thanks for reading!
