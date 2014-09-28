@@ -55,7 +55,7 @@ Leonard, the architect.
 Lionel, the project lead, aka the product owner.
 ````
 
-And in the red corner, hailing from camp Cegeka. *I did not choose the names, these are their actual names. A trio of Toms. A TomTrio. A Tromio.*
+And in the red corner, hailing from camp Cegeka. *I make these up, these are their actual names. A trio of Toms. A TomTrio. A Tromio?*
 
 ````
 Tom T., the team lead.
@@ -69,7 +69,15 @@ All these people are going to work together in the hours ahead, to create a shar
 
 After explaining who I was, and what my role was going to be in the next hour(s), I explained Event/Model Storming in short and what the rules of the game were. Everyone then proceeded to post Events on the sheets of paper. No buts, no arguments, everyone was in the same boat and understood the value of having a shared understanding.
 
+There were only a few instances in which Events were not in past tense, and those were quickly fixed once I pointed it out.
+
+Lommy, *the functional analyst*, went back-and-forth between stickies and his laptop. This told me that he was posting events that were a little bit biased. Most of the time though, other participants had already posted similar events. Which confirmed understanding of both participants and informed me that this bias was negligible. He IS the *Domain Expert* after all.
+
 ## Ubiquitous Language
+
+Especially after they started posting External Systems it appeared that there were some issues in the word choice. It appeared that naming External Systems and their actors went particularly well and was clear to everybody. However, once events came in to the problem domain, wording started to get a little fuzzy. Lommy, Leonard and Lionel were all using different words to describe the same events. Which caused a lot of confusion for our Tom Trio.
+
+This is where I noticed immediate benefit of Event Storming: stuff like this usually appears when you get to that bit of the solution.
 
 ## Hotspots
 
