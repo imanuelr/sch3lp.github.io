@@ -53,7 +53,7 @@ Make sure you mention [Norm Kerths Prime Directive](http://martinfowler.com/blik
 2. Have everybody write down on a post-it - in silence - at least one event or experience in the past iteration that they can remember, whether it be a good or bad one.
 3. Then have everybody try and hang each of their post-its on the Responsibility Process.
 
-If you have a big team, or you're doing a project retro, chances are you'll get a WHOLE lot of post-its. If this is likely the case, you might want to limit the amount of post-its that people can write. You can just lay down a hard limit of 2-3 per person, or constrain them in another way (add to comment section if you have a nice example).
+If you have a big team, or you're doing a project retro, chances are you'll get a WHOLE lot of post-its. If this is likely the case, you might want to limit the amount of post-its that people can write. You can just lay down a hard limit of 2-3 per person, or constrain them in another way (add to the comment section if you have a nice example).
 
 ### Generate Insights
 
@@ -67,17 +67,24 @@ Group same post-its ONLY when they are both about the same subject AND in the sa
 
 ### Analysis
 
+Here's what we came up with:
+
+[![Gathering Data]({{site.url}}/public/assets/2015-01-22-how-to-run-a-responsibility-process-retrospective/resp-retro.jpg)]({{site.url}}/public/assets/2015-01-22-how-to-run-a-responsibility-process-retrospective/resp-retro.jpg)
+
+I'm pretty sure anyone can draw the phases out better than I did. :)
+
 After you finished all the post-its, note how many are in which phase. This is the phase you are most likely to improve on as a team. The usual thing goes as well where you note clusters of subjects. It might be not as apparent because different post-its on same subjects might be spread out in different phases. This is ok. It's more important to learn where in the states you are, then which subjects pop out. By saying them out loud, everybody will notice it anyways.
 
-### Things to look out for
+Sometimes people will yell "I added that same subject in a different lane!". If you feel like the current phase hasn't been explored enough yet, continue with other cards in that phase. If you feel like it has, ask them which phase they put it in so you can compare and ask why the same subject is in a different lane.
 
-* Confusing Lay Blame with Justify. Justify is really about outside/external actions that are completely out of your hand, but also are almost completely unchangeable. e.g. The sun comes up at dawn and it only woke me up when the light came in my bedroom, that's why I was late. In contrast to: my partner was supposed to set my alarm, but forgot about it, that's why I was late. 
-* 
+You'll notice that it's often a description of the cause, and not the problem itself that fits best in a phase. Help your group notice this too.
 
 ### Decide what to do
 
-Ask the team the big question: "What do WE really want?". You can then proceed to dot-vote, or merge, or make SMART goals.
+Explain that aside from the personal empowering the framework provides you, it also empowers a team with Shared Responsibility. Then ask the team the big question: "What do WE really want?". You can then proceed to dot-vote, or merge, or make SMART goals.
+
 Suggest that you can organize a contest where teammembers publicly keep their "Hits & Misses" of the phase that had the biggest amount of post-its.
+
 On a whiteboard or whatever, list the teammembers, a hits column and a misses column. When a person noticed that they were in a certain phase when they said/did something, they can mark it as "hit". If they notice it after they said/did something or someone else notices it afterwards, it counts as a "miss".
 This might work against you if some teammembers are likely to "game the system". It's fun to then ask them from what phase in the [Responsibility Process](http://www.christopheravery.com/responsibility-process) they're acting the way they are. :)
 
@@ -86,5 +93,10 @@ This might work against you if some teammembers are likely to "game the system".
 Explain the concept of Team Responsibility, which you sort of hinted at already in the previous section. This time make it really explicit that it's you as a team that also can move through the different phases.
 
 Again, [pick one](http://plans-for-retrospectives.com/?id=14-15-16-17-23-34-40-44-45-53-57-60-67-71-77-83-92).
-If you're like me, you're going to want to choose one that give you, the facilitator, feedback on how you ran your retro and how they felt during.
+If you're like me, you're going to want to choose one that gives you, the facilitator, feedback on how you ran your retro and how they felt during.
 
+## Closing notes
+
+GL HF out there!
+
+Oh, and I welcome questions, remarks, or any other kind of feedback in the comment section.
