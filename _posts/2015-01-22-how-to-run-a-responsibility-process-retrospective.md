@@ -1,32 +1,32 @@
 ---
 layout: post
-title: How to run a Responsibility Process™ Retrospective
+title: How to run a The Responsibility Process™ Retrospective
 tags: [responsibility-process, retrospectives, how-to]
 published: true
 ---
 
-## What is the Responsibility Process?
+## What is The Responsibility Process™?
 
-[Christopher Avery](http://twitter.com/ChristopherAver) did a bunch of research and eventually came up with his [Responsibility Process](http://www.christopheravery.com/responsibility-process). Watch [this YouTube video](https://www.youtube.com/watch?v=-T3IZ2ISxag) too.
+[Christopher Avery](http://twitter.com/ChristopherAver) did a bunch of research and eventually came up with [The Responsibility Process™](http://www.christopheravery.com/responsibility-process). Watch [this YouTube video](https://www.youtube.com/watch?v=-T3IZ2ISxag) too.
 
 In short, it explains how responsibility is not to be considered a trait, something you inherit, but rather something of a state machine, or something that evolves through phases. This process as laid out by Christopher, provides you with a framework that eventually allows you to become aware of which state/phase you're in, and act upon it as to achieve the goal of *Responsibility*.
 
 Getting there means you will be able to answer the inner question "What do I really want?".
 
 Through practice, I found this Process to be extremely powerful. An effect which its simplicity would make you think otherwise.
-If there's one resolution you should fulfill in 2015 it's this one, to use the [Responsibility Process](http://www.christopheravery.com/responsibility-process) and become a better, happier person.
+If there's one resolution you should fulfill in 2015 it's this one, to use [The Responsibility Process™](http://www.christopheravery.com/responsibility-process) and become a better, happier person.
 
 ## What does it have to do with Retrospectives?
 
-The [Responsibility Process](http://www.christopheravery.com/responsibility-process) *is* more applicable on a personal level. But make no mistake, it's very powerful on a team level as well.
-Providing the answer to the team's question of "What do WE really want?" is generally a difficult endeavor. However, with the knowledge of the [Responsibility Process](http://www.christopheravery.com/responsibility-process) in the back of everyones mind, can make it realistically achievable.
+[The Responsibility Process™](http://www.christopheravery.com/responsibility-process) *is* more applicable on a personal level. But make no mistake, it's very powerful on a team level as well.
+Providing the answer to the team's question of "What do WE really want?" is generally a difficult endeavor. However, with the knowledge of [The Responsibility Process™](http://www.christopheravery.com/responsibility-process) in the back of everyones mind, can make it realistically achievable.
 
 How do we get this into the back of everyones mind? You build a Retrospective around it!
 
 ### The goal
 
 To do better in the next [iteration](http://en.wikipedia.org/wiki/Iteration#Project_management), by creating awareness in your team about the *Responsibility* phases.
-And by getting everyone in the team to understand the [Responsibility Process](http://www.christopheravery.com/responsibility-process) framework, thereby creating some sort of hivemind, allowing your team to align itself and make decisions easier.
+And by getting everyone in the team to understand [The Responsibility Process™](http://www.christopheravery.com/responsibility-process) framework, thereby creating some sort of hivemind, allowing your team to align itself and make decisions easier.
 
 ### What you'll need
 
@@ -36,7 +36,7 @@ And by getting everyone in the team to understand the [Responsibility Process](h
 * Sticky (or non-sticky) Flip-charts, Paper-roll, ... A clean surface area
 * Tape
 
-Draw out the phases of the [Responsibility Process](http://www.christopheravery.com/responsibility-process) on the clean surface area.
+Draw out the phases of [The Responsibility Process™](http://www.christopheravery.com/responsibility-process) on the clean surface area.
 Leave some room in between the lanes.
 
 ### Setting the stage
@@ -47,9 +47,9 @@ Aside from that, [pick one](http://www.plans-for-retrospectives.com/?id=1-2-3-18
 
 ### Gathering Data
 
-1. Briefly explain the [Responsibility Process](http://www.christopheravery.com/responsibility-process). Give short examples for all the phases.
+1. Briefly explain [The Responsibility Process™](http://www.christopheravery.com/responsibility-process). Give short examples for all the phases.
 2. Have everybody write down on a post-it, in silence, at least one event or experience in the past iteration that they can remember, whether it be a good or bad one.
-3. Then have everybody try and hang each of their post-its on the *Responsibility Process*.
+3. Then have everybody try and hang each of their post-its on *The Responsibility Process™*.
 
 If you have a big team, or you're doing a project retro, chances are you'll get a WHOLE lot of post-its. If this is likely the case, you might want to limit the amount of post-its that people can write. You can just lay down a hard limit of 2-3 per person, or constrain them in another way (add to the comment section if you have a nice example).
 
@@ -102,7 +102,7 @@ I didn't put up *Quit*, because I didn't want to confuse them too much. *Quit* c
 
 Print out the posters and hang them across the team room for easy reference and reminders.
 
-The reason why I think this retro format is great is because you gather data, and learn about the Responsibility Process at the same time. Further more, I find that creating awareness about these phases just improves a team in general, for a loooooooooooong time.
+The reason why I think this retro format is great is because you gather data, and learn about The Responsibility Process™ at the same time. Further more, I find that creating awareness about these phases just improves a team in general, for a loooooooooooong time.
 
 GL HF out there!
 
@@ -112,4 +112,4 @@ Oh, and I welcome questions, remarks, or any other kind of feedback in the comme
 
 On a whiteboard or whatever, list the teammembers, a hits column and a misses column. When a person noticed that they were in a certain phase when they said/did something, they can mark it as *"hit"*. If they notice it after they said/did something or someone else notices it afterwards, it counts as a *"miss"*.
 
-This might work against you if some teammembers are likely to game the system. It's fun to then ask them, while pointing at the posters you hung up, out of which phase in the [Responsibility Process](http://www.christopheravery.com/responsibility-process) they're acting the way they are. :)
+This might work against you if some teammembers are likely to game the system. It's fun to then ask them, while pointing at the posters you hung up, out of which phase in [The Responsibility Process™](http://www.christopheravery.com/responsibility-process) they're acting the way they are. :)
