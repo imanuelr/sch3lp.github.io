@@ -2,7 +2,7 @@
 layout: post
 title: Event Storming for realz
 tags: [event-storming, experience-report]
-published: false
+published: true
 ---
 
 After last times [Event Storming exercise](/2014-07-12-event-storming-exercise) I was anxious to do it again. 
@@ -108,13 +108,15 @@ Another thing that this facilitated was more discussion on Ubiquitous Language, 
 
 Lastly, delineating the contexts also gave a good impression of how big those contexts were. This showed something interesting in that there was one context that contrasted a lot in terms of sheer amount, to another context. Upon announcing that observation, they explained that eventhough that other context was much smaller, it was actually more complex. And the reason why they did not have a lot of cards there, was simply because the right people (that had the knowledge of that context) weren't there.
 
+After we did that the road to storymapping was set and we added some "Shared Language" (the pink post-its in the photo below) and things that could be "Stories" (the purple post-its in the photo below). They didn't go very far into this because this could be done after, and they felt that they already gained all the extra insight they could get from doing this additional step.
+
 ## Conclusion
 
 After about an hour I started asking if they wanted to continue the exercise every time the discussion seemed to die down or get stuck. They naturally went back into the discussion when it was interesting enough for them to continue, and other times they jumped to a different topic.
 
 I consider this exercise to be a successful one, eventhough we didn't get an initial story out of it. In the end I got positive feedback that it was very useful for them. The three L's were glad they did this and confirmed that we were the better choice in partner to do this project with.
 
-It's been a month since they successfully went in production and I'm proud to have contributed to this feat, albeit a very small contribution.
+It's been a month since they successfully went in production and I'm proud to have contributed, albeit in a very small way, to this feat. Well done guys!
 
 ## Results
 
