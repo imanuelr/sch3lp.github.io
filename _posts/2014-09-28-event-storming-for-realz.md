@@ -47,21 +47,23 @@ As I was preparing the room with flipchart sheets and "superstickies" that would
 
 ## Introducing: the participants
 
-In the blue corner we present to you our client, a big contender in belgians electricity market, bringing in a total of 3 persons. *I picked different names, to preserve their anonymity.*
+In the blue corner we present to you our client, a big contender in belgians electricity market, bringing in a total of 3 persons. 
 
-````
-Lommy, the functional analyst.
-Leonard, the architect.
-Lionel, the project lead, aka the product owner.
-````
+*I picked different names, to preserve their anonymity.*
 
-And in the red corner, hailing from camp Cegeka. *I did not make these up, these are their actual names. A trio of Toms. A TomTrio. A Tromio?*
+* Lommy, the functional analyst.
+* Leonard, the architect.
+* Lionel, the project lead, aka the product owner.
 
-````
-Tom T., the team lead.
-Tom C., the scrum master/customer proxy.
-Tom B., the developer.
-````
+
+And in the red corner, hailing from camp Cegeka. 
+
+*I did not make these up, these are their actual names. A trio of Toms. A TomTrio. A Tromio?*
+
+* Tom T., the team lead.
+* Tom C., the scrum master/customer proxy.
+* Tom B., the developer.
+
 
 All these people are going to work together in the hours ahead, to create a shared understanding of what problem they want to solve together.
 
@@ -114,7 +116,7 @@ Upon announcing that observation, they explained that eventhough that other cont
 
 ## Conclusion
 
-After about 1 hour I started asking everytime the discussion seemed to die down or get stuck if we should continue the exercise. They naturally went back into the discussion when it was interesting enough for them to continue, and other times they jumped to a different topic.
+After about an hour I started asking if they wanted to continue the exercise every time the discussion seemed to die down or get stuck. They naturally went back into the discussion when it was interesting enough for them to continue, and other times they jumped to a different topic.
 
 I consider this exercise to be a successful one, eventhough we didn't get an initial story out of it. In the end I got positive feedback that it was very useful for them. The three L's were glad they did this and confirmed that we were the better choice in partner to do this project with.
 
