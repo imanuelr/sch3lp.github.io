@@ -102,17 +102,11 @@ It really felt like the more positive experiences the group had, the better they
 
 So, I don't know if this is a good thing to do, but I thought it's worth mentioning at least.
 
-At some point, someone started noticing that in the time-line that was drawn out, there were some natural groupings that were showing. We decided to name them contexts and hang them up above their location in the timeline.
-
-It made some ideas more logical to think about, and caused some events to be shifted into their context.
-
+At some point, someone started noticing that in the time-line that was drawn out, there were some natural groupings that were showing. We decided to name them contexts and hang them up above their location in the timeline. It made some ideas more logical to think about, and caused some events to be shifted into their context.
 They then also tried to map the contexts to the analysis that Lommy had prepared. But for Tom C., it was getting too fine-grained.
-
 Another thing that this facilitated was more discussion on Ubiquitous Language, leading them to declare "This will help us to make the story map more clear, later".
 
-Lastly, delineating the contexts also gave a good impression of how big those contexts were. This showed something interesting in that there was one context that contrasted a lot in terms of sheer amount, to another context.
-
-Upon announcing that observation, they explained that eventhough that other context was much smaller, it was actually more complex. And the reason why they did not have a lot of cards there, was simply because the right people (that had the knowledge of that context) weren't there.
+Lastly, delineating the contexts also gave a good impression of how big those contexts were. This showed something interesting in that there was one context that contrasted a lot in terms of sheer amount, to another context. Upon announcing that observation, they explained that eventhough that other context was much smaller, it was actually more complex. And the reason why they did not have a lot of cards there, was simply because the right people (that had the knowledge of that context) weren't there.
 
 ## Conclusion
 
@@ -121,3 +115,8 @@ After about an hour I started asking if they wanted to continue the exercise eve
 I consider this exercise to be a successful one, eventhough we didn't get an initial story out of it. In the end I got positive feedback that it was very useful for them. The three L's were glad they did this and confirmed that we were the better choice in partner to do this project with.
 
 It's been a month since they successfully went in production and I'm proud to have contributed to this feat, albeit a very small contribution.
+
+## Results
+
+[![Clustering around hotspot]({{site.url}}/public/assets/2015-02-01-event-storming-for-realz/clustering.jpg)]({{site.url}}/public/assets/2015-02-01-event-storming-for-realz/clustering.jpg)
+[![End result]({{site.url}}/public/assets/2015-02-01-event-storming-for-realz/endresult.jpg)]({{site.url}}/public/assets/2015-02-01-event-storming-for-realz/endresult.jpg)
