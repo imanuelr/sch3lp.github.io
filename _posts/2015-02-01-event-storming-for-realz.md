@@ -83,7 +83,7 @@ This is where I noticed immediate benefit of Event Storming: stuff like this usu
 
 ## Hotspots
 
-As the story started to unfold before their eyes, there some thing that were still unclear and appeared literally outside (off of the paper). I added some big exclamation marks on differently colored post-its to make it clear.
+As the story started to unfold before their eyes, there was some things that were still unclear and appeared literally outside (off of the paper). I added big exclamation marks on differently colored post-its to make it clear.
 And every so often, we came back to these hotspots and discussed some more about them. Further more, Lommy knew about these problems, but the rest of the team did not. Excellent learning happened right there, and you could feel the group getting excited about that fact.
 
 One hotspot was about an "edge-case" that appeared to be more important and really couldn't be considered an edge-case anymore. Marking it as a hotspot also made that more clear.
@@ -92,7 +92,7 @@ Talking about an external system also lead to some confusion in ubiquitous langu
 
 ## Facilitating "aha-moments"
 
-Aside from the hotspots building confidence in the session we were doing, there were also some other moments that put the group to a higher level.
+Aside from the hotspots building confidence in the session we were doing, there were also some other moments that elevated the group to a higher level.
 
 I noticed they were grouping together near one particular part of the line and mentioned that I noticed this while querying *"Is this the core of the problem domain?"*. I could see them reflect on that a little bit and then unanimously went *"Yes! Cool! :D"*. 
 
