@@ -1,0 +1,7 @@
+@Test
+public void givenAnElectricalTeapot_WhenSwitchFlippedToOn_ThenItShouldStartHeatingTheWater(){
+    Teapot teapot = new Teapot();
+    teapot.flipOn();
+
+    assertThat(teapot.isHeating()).isTrue();
+}
