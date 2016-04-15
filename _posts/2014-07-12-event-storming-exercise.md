@@ -7,7 +7,7 @@ published: true
 As I'm currently in between projects at [Cegeka](http://www.cegeka.be) and just finished working on an RFP, I got to factor in a day of learning along with other developers last friday.
 And boy oh boy was it worthwile.
 
-TL;DR? Skip to the [Struggling](#Struggling) part.
+TL;DR? Skip to the [Struggling](/2014/07/12/event-storming-exercise/#Struggling) part.
 
 ## Event Storming
 

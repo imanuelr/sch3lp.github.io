@@ -11,7 +11,7 @@ Use Lean principles' _Value Stream Mapping_ if you want to:
 * boost collaboration between analysts and developers
 * want a break from the drudgery that is _Mad, Sad, Glad_.
 
-Check my [lessons learned](#lessons-learned) to make sure you don't make the same mistakes.
+Check my [lessons learned](/2016/04/15/first-time-running-value-stream-mapping-retrospective/#lessons-learned) to make sure you don't make the same mistakes.
 
 ## What is Value Stream Mapping
 [Value Stream Mapping](http://wall-skills.com/2014/value-stream-mapping/) is a collaborative exercise originating from Lean Principles, that visualizes the process of delivering _value_ to your customers. As a result of the visualisation you'll be able to analyze the flow of materials and information, identify chokepoints and waste, ...
