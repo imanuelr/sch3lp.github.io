@@ -2,7 +2,7 @@
 layout: post
 title: Value Stream Mapping Retrospective
 tags: [experience-report, value-stream-mapping]
-published: false
+published: true
 ---
 ## TL;DR
 Use Lean principles' _Value Stream Mapping_ if you want to:
