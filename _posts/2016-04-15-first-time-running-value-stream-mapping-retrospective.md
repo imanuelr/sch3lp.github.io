@@ -18,7 +18,7 @@ Check my [lessons learned](/2016/04/15/first-time-running-value-stream-mapping-r
 [Value Stream Mapping](http://wall-skills.com/2014/value-stream-mapping/) is a collaborative exercise originating from Lean Principles, that visualizes the process of delivering _value_ to your customers. As a result of the visualisation you'll be able to analyze the flow of materials and information, identify chokepoints and waste, ...
 
 ​​## Setting the stage
-> 2-3 minutes
+> 2 to 3 minutes
 
 Make sure you mention [Norm Kerths Prime Directive](http://martinfowler.com/bliki/PrimingPrimeDirective.html), especially if this is your first retro, but also as a refresher.
 
