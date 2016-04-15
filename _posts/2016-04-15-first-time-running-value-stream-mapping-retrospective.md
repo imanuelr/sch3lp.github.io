@@ -6,6 +6,7 @@ published: true
 ---
 ## TL;DR
 Use Lean principles' _Value Stream Mapping_ if you want to:
+
 * identify and optimize your process
 * boost team morale by showing you're making something valuable
 * boost collaboration between analysts and developers
@@ -18,6 +19,7 @@ Check my [lessons learned](/2016/04/15/first-time-running-value-stream-mapping-r
 
 ​​## Setting the stage
 > 2-3 minutes
+
 Make sure you mention [Norm Kerths Prime Directive](http://martinfowler.com/bliki/PrimingPrimeDirective.html), especially if this is your first retro, but also as a refresher.
 
 Aside from that, [pick one](http://www.plans-for-retrospectives.com/?id=1-2-3-18-22-31-32-36-42-43-46-52-59-70-76-81-82-84-85-90)! The internet is a vast ocean of possibilities.
@@ -26,6 +28,7 @@ Since we have the tradition of bringing a snack when it's your turn to facilitat
 
 ## Gathering Data
 > 30 minutes
+
 I then started off by explaining Value Stream Mapping and told them to divide into groups of 4, with each group having at least 1 analyst. I asked them to create a flow of a story or a bug, not both. All teams ended up using the perspective of a story in our process.
 
 Every group had an ample amount of sticky notes, sharpies, and flipchart paper. I also gave them a pdf printout of the Value Stream Mapping explanation they could refer to when something wasn't clear.
@@ -39,13 +42,16 @@ They were kept up to date on how much time they had every 10 minutes. At first I
 
 ## Generating Insights
 > 5 minutes
+
 While the groups were still working on their Value Stream Map, I went by each one and told them they had 5 minutes to answer 3 questions that I also wrote on a flipchart:
+
 * What did you learn?
 * What still puzzles you?
 * Where is the biggest time-sink/waste?
 
 ## Sharing results
 > 20 minutes
+
 After those 5 minutes were over, I had every team share their Value Stream Map and their findings to the other groups.
 
 [![Group 1 Sharing their results]({{site.url}}/public/assets/2016-04-15-first-time-running-value-stream-mapping-retrospective/Team1_Sharing.jpg)]({{site.url}}/public/assets/2016-04-15-first-time-running-value-stream-mapping-retrospective/Team1_Sharing.jpg)
@@ -69,6 +75,7 @@ I liked this, because it lowers the threshold to give feedback. People that want
 I loved how engaged everybody was when creating the Value Stream Maps and I loved the interaction between developers and analysts. This also came out of the feedback I got.
 
 ## Lessons Learned<a name="lessons-learned">&nbsp;</a>
+
 Something I should have done at the beginning of the _Gathering Data_ phase is to emphasize that they shouldn't go into too much detail when following the flow of a story. Because this caused groups to require more time to finish the entire flow of a story. Mentioning that they should not use the current kanban board as a reference would have helped a lot too I think. Mostly because this causes them to start off on a level of detail that is unnecessary for a Value Stream Map.
 This way I can shorten the Gathering Data phase and we'll have some room for making S.M.A.R.T. actions.
 
