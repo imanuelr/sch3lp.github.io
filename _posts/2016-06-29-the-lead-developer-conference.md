@@ -108,3 +108,19 @@ To receive feedback there is only one rule: _Always say Thank You_. Even if the 
 Great talk to start off the lunch. :)
 
 [Slides](https://speakerdeck.com/tastapod/how-to-make-a-sandwich) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev5.md)
+
+### Duretti Hirpa - How to get engineering team to eat their vegetables
+To stay in the food analogies after a very nice lunch, Duretti's ([@Duretti](http://twitter.com/@duretti)) talk about how teams operate had some really great one liners.
+
+My favorite ones being _(Acceptance of) vulnerability leads to a learning culture_, _Coordination **IS** competitive advantage_, _Productivity is a measure of comfort_.
+
+She noticed what qualities a good team shows:
+* A good team wants _you_ to win
+* Has a sense of togetherness
+* Has a place for vulnerability.
+* Is psychologically safe
+* Has empathy
+
+Nice talk with a whole lot of truth bombs. Worth watching when the video's get released.
+
+[Slides](https://speakerdeck.com/duretti/how-to-get-engineering-teams-to-eat-their-vegetables) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev6.md)
