@@ -92,3 +92,19 @@ I remember that Webhooks are less chatty, and that its content is usually large 
 
 [Slides](https://speakerdeck.com/lornajane/the-wonderful-world-of-webhooks) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev4.md)
 
+### Dan North - How to make a sandwich
+Dan ([@tastapod](http://twitter.com/@tastapod)) North, the man, the Legend, gave a really great talk about _Feedback_.
+
+He first talked about Feedback in the context of Systems Theory, which he does a way better job at explaining than I ever will so watch the video when it's released.
+
+The most important thing I picked up about this part is that there are different motivations why one would offer feedback. And that when you notice you would be offering feedback to control the one you're giving feedback to, you should just walk away.
+
+In the next part we learned about how to deliver feedback using SBI, _Situation Behavior Impact_.
+
+And different ways of structuring feedback, e.g. the infamous _Sandwich_ model.
+
+To receive feedback there is only one rule: _Always say Thank You_. Even if the feedback you got made you angry. Because it shows your appreciative of getting feedback. Try to map that feedback you got to SBI yourself (how was the other person thinking about giving you feedback).
+
+Great talk to start off the lunch. :)
+
+[Slides](https://speakerdeck.com/tastapod/how-to-make-a-sandwich) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev5.md)
