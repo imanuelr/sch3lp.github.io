@@ -50,7 +50,7 @@ Patrick closed off by saying that our role as Lead gives us greater impact. And 
 
 This keynote really set the tone for the talks that we'd see over the course of the next 2 days in London.
 
-Slides / Notes
+[Slides](http://www.slideshare.net/thekua/what-i-wish-i-knew-as-a-first-time-tech-lead) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev.md)
 
 ### Heidi Waterhouse - The 7 righteous fights
 The 7 righteous fights... you should be fighting.
@@ -63,7 +63,7 @@ About _Security_ she had a lovely quote: ​_Internet is not a series of tube co
 
 About technical debt in general she said if it’s already in a release, you’ll get more resistance of fixing it. She made the fitting analogy by saying that trying to fix stuff in a codebase after it's release is ​_like trying to pound chocolate chips into an already baked cookie_​.
 
-Slides / Notes
+[Slides](https://docs.google.com/presentation/d/1-IXKHM__IeS9h4OhGODzXIrqVZGD6dzZk1SN3v_rBeo/edit#slide=id.p) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev2.md)
 
 ### Mike Gehard - Moving from Monolith to Microservices
 Mike ([@mikegehard](http://twitter.com/@mikegehard)) went so fast through his presentation that it's gonna take me at least a second viewing to really understand all the things he was trying to say.
@@ -83,4 +83,4 @@ Basically what he was saying was _Use the benefits that immersive design provide
 As you might notice from the lingo, Mike is a big fan of Eric Evans' Domain Driven Design (he even made the same jokes that go along with it). He also didn't fail to mention Simon Brown's component structuring.
 This made me feel right at home. :)
 
-Slides / Notes
+[Slides](https://github.com/mikegehard/journeyFromMonolithToMicroservicesSlides/tree/leadDev) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev3.md)
