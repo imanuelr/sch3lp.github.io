@@ -84,3 +84,11 @@ As you might notice from the lingo, Mike is a big fan of Eric Evans' Domain Driv
 This made me feel right at home. :)
 
 [Slides](https://github.com/mikegehard/journeyFromMonolithToMicroservicesSlides/tree/leadDev) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev3.md)
+
+### Lorna Mitchell - Wonderful world of webhooks
+Lorna ([@lornajane](http://twitter.com/@lornajane)) gave a lightning talk about why WebHooks are cool.
+
+I remember that Webhooks are less chatty, and that its content is usually large (coars-grained) because you want to push the information that's useful to 80% of the use cases to stay as least chatty as possible.
+
+[Slides](https://speakerdeck.com/lornajane/the-wonderful-world-of-webhooks) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev4.md)
+
