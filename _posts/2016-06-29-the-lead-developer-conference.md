@@ -132,7 +132,7 @@ Katie Fenn ([@katie_fenn](http://twitter.com/@katie_fenn)) took the stage and ta
 
 Other than the various JS loaders, you can also use it with both Sass and Less.
 
-[Slides](https://slidr.io/katiefenn/writing-modular-stylesheets-with-css-modules-the-lead-developer-2016#1) | [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev7.md)
+[Slides](https://slidr.io/katiefenn/writing-modular-stylesheets-with-css-modules-the-lead-developer-2016#1) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev7.md)
 
 ### Yasmina Banaszczuk - I know just the right person
 After that short technical talk, in came Yasmina ([@lasersushi](http://twitter.com/@lasersushi)), ready to blow us all away with refreshing german directness and delicate, yet powerful tone of voice. 
@@ -157,7 +157,7 @@ A very refreshing and interesting talk, with a very smart and very fun to listen
 
 If you're interested in more of her research, definitely check out [her website](http://frau-dingens.de/). She's currently working on a series of articles on [_The Habitus of Tech_](http://frau-dingens.de/the-habitus-of-tech/).
 
-Slides | [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev8.md)
+Slides / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev8.md)
 
 ### Joel Chippindale - Telling stories through your commits
 One of Joel Chippindale ([@joelchippindale](http://twitter.com/@joelchippindale)) was preaching to the choir (at least on my part) about how _The key challenge as lead dev is managing complexity_ and how _Naming, code design, refactoring and automated tests are all about **communicating** the intent of our software_.
@@ -178,7 +178,7 @@ Absolutely loved this talk. It amazed me how much information he was able to cra
 
 Check out [his website dedicated](http://blog.mocoso.co.uk/talks/2015/01/12/telling-stories-through-your-commits/) to this concept.
 
-[Slides](https://speakerdeck.com/mocoso/telling-stories-through-your-commits-lead-developer-conference-2016) | [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev9.md)
+[Slides](https://speakerdeck.com/mocoso/telling-stories-through-your-commits-lead-developer-conference-2016) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev9.md)
 
 ### Sam Lambert - The argument for simplicity
 Sam Lambert ([@isamlambert](http://twitter.com/@isamlambert)) taught us a bit about how they work at github.
@@ -190,7 +190,7 @@ If there's one thing he wanted us to take along it was to get a therapist. Peopl
 At the end, in stead of mentioning his own internet _location_ he shared some people he wants us to look up, so here are the ones I managed to note down:
 [@ihavenotea](http://twitter.com/@ihavenotea), [@jessfraz](http://twitter.com/@jessfraz), [@eanakashima](http://twitter.com/@eanakashima).
 
-Slides | [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev10.md)
+Slides / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev10.md)
 
 ### Nickolas Means - How to crash an airplane
 Jezus christ, how do I even begin summarizing this talk.
@@ -210,6 +210,6 @@ _As leaders we need to avoid teams to develop dominant voices, especially our ow
 
 _Software is a team sport._
 
-Slides | [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev11.md)
+Slides / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev11.md)
 
 ## Day 2
