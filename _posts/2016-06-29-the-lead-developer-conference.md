@@ -192,3 +192,24 @@ At the end, in stead of mentioning his own internet _location_ he shared some pe
 
 Slides | [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev10.md)
 
+### Nickolas Means - How to crash an airplane
+Jezus christ, how do I even begin summarizing this talk.
+
+Nickolas ([@nmeans](http://twitter.com/@nmeans), airplane afficionado) left the audience mesmerized and awe struck after channeling his inner _Shaman_, telling us a story about how a horrible plane crash could've turned out even worse if it weren't for _Cockpit Resource Management_.
+And making the analogy to what makes up a good team.
+
+If there's one presentation you should watch of this conference, it's this one.
+
+A grasp out of some of his quotes:
+
+_Cooperation over Heroics_
+
+_Everyone has a voice._
+
+_As leaders we need to avoid teams to develop dominant voices, especially our own. Use your authority to ensure every voice is heard._
+
+_Software is a team sport._
+
+Slides | [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev11.md)
+
+## Day 2
