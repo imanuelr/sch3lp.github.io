@@ -124,3 +124,62 @@ She noticed what qualities a good team shows:
 Nice talk with a whole lot of truth bombs. Worth watching when the video's get released.
 
 [Slides](https://speakerdeck.com/duretti/how-to-get-engineering-teams-to-eat-their-vegetables) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev6.md)
+
+### Katie Fenn - Writing Modular Stylesheets with CSS Modules
+Katie Fenn ([@katie_fenn](http://twitter.com/@katie_fenn)) took the stage and talked about how CSS Modularization is sensical because along with making components in JavaScript, you also want the same for your CSS.
+
+`CSS Modules` is the way to achieve this fairly easily. I think it makes the most sense when you work with `JSX` components like you do when you use `ReactJS`.
+
+Other than the various JS loaders, you can also use it with both Sass and Less.
+
+[Slides](https://slidr.io/katiefenn/writing-modular-stylesheets-with-css-modules-the-lead-developer-2016#1) | [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev7.md)
+
+### Yasmina Banaszczuk - I know just the right person
+After that short technical talk, in came Yasmina ([@lasersushi](http://twitter.com/@lasersushi)), ready to blow us all away with refreshing german directness and delicate, yet powerful tone of voice. 
+
+Her talk was all about how our (personal) networks can influence hiring and retention in the tech industry.
+
+After laying out studies and papers about how we really hire "People like ourselves", we delved deeper into the motivation behind it.
+
+She gave a hilarious example of how the name _Kevin_ has (had?) a bad connotation in Germany, which even lead to a word called [Kevinismus](http://blogs.discovermagazine.com/discoblog/2012/02/01/does-a-lame-name-make-you-more-likely-to-be-a-smoker-with-low-self-esteem/#.V2v5Q-Z97AU), and the entire floor laughing out loud when she visibly felt embarassed about all the _Kevin_'s in the audience, and the continued, emboldened laughter after she exclaimed _There's actual research in that!_.
+
+At the end of her talk we got a nice summary:
+
+Check your processes, your networks and yourself.
+
+Are they varied, do they have same educational background, do they spend their nights gaming, or do they speak or dress the same way?
+
+Then your network might be too homogeneous.
+
+This might turn your networks into gate**keepers** instead of welcoming, open gates.
+
+A very refreshing and interesting talk, with a very smart and very fun to listen to speaker. Definitely watch her talk when it gets released. 
+
+If you're interested in more of her research, definitely check out [her website](http://frau-dingens.de/). She's currently working on a series of articles on [_The Habitus of Tech_](http://frau-dingens.de/the-habitus-of-tech/).
+
+Slides | [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev8.md)
+
+### Joel Chippindale - Telling stories through your commits
+One of Joel Chippindale ([@joelchippindale](http://twitter.com/@joelchippindale)) was preaching to the choir (at least on my part) about how _The key challenge as lead dev is managing complexity_ and how _Naming, code design, refactoring and automated tests are all about **communicating** the intent of our software_.
+
+He then went on to say that VCS (like Git, Mercurial, SVN, ...) is underused in this regard.
+
+To have _every line of code always documented_, he presented us with the 3 principles he adheres to.
+
+1. Make atomic commits; What's the smallest useful change u can make to ur codebase?
+
+2. Write good commit messages (on [his website](http://blog.mocoso.co.uk/talks/2015/01/12/telling-stories-through-your-commits/) he links to [Chris Beams' _How to write a good commit message_](http://chris.beams.io/posts/git-commit/))
+
+3. Revise your development history before sharing. With `git rebase`.
+
+The biggest motivator to a team on using these principles is that all of them have the benefit of making commits simpler, and also easier to think about.
+
+Absolutely loved this talk. It amazed me how much information he was able to cram in a relatively short talk.
+
+Check out [his website dedicated](http://blog.mocoso.co.uk/talks/2015/01/12/telling-stories-through-your-commits/) to this concept.
+
+[Slides](https://speakerdeck.com/mocoso/telling-stories-through-your-commits-lead-developer-conference-2016) | [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev9.md)
+
+
+
+
