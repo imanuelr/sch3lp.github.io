@@ -180,6 +180,15 @@ Check out [his website dedicated](http://blog.mocoso.co.uk/talks/2015/01/12/tell
 
 [Slides](https://speakerdeck.com/mocoso/telling-stories-through-your-commits-lead-developer-conference-2016) | [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev9.md)
 
+### Sam Lambert - The argument for simplicity
+Sam Lambert ([@isamlambert](http://twitter.com/@isamlambert)) taught us a bit about how they work at github.
 
+They deploy with hubot in slack so they can easily backtrace what happened before and after in the conversation that is deploying to production. Neat!
 
+If there's one thing he wanted us to take along it was to get a therapist. People laughed awkwardly, but he was dead serious. It was great to see this taboo being taken down.
+
+At the end, in stead of mentioning his own internet _location_ he shared some people he wants us to look up, so here are the ones I managed to note down:
+[@ihavenotea](http://twitter.com/@ihavenotea), [@jessfraz](http://twitter.com/@jessfraz), [@eanakashima](http://twitter.com/@eanakashima).
+
+Slides | [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev10.md)
 
