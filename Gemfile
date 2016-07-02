@@ -4,3 +4,4 @@ if RbConfig::CONFIG['target_os'] =~ /mswin|mingw|cygwin/i
 end
 
 gem 'github-pages'
+gem 'jekyll-paginate'

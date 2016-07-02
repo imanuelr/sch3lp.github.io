@@ -25,6 +25,6 @@ version:          1.0.0
 # Gems
 # Redirects: https://help.github.com/articles/redirects-on-github-pages
 # Sitemap: https://help.github.com/articles/sitemaps-for-github-pages
-#gems:
+gems: [jekyll-paginate]
 #- jekyll-redirect-from
 #- jekyll-sitemap
