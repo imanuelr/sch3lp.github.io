@@ -1,5 +1,5 @@
 ---
 layout: posts_by_tag
 tag: event-storming
-permalink: event-storming.html
+permalink: tag/event-storming.html
 ---
