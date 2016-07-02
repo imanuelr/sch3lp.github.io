@@ -46,6 +46,7 @@ I'm also turning this into 2 blog posts, because after writing Day 1 it already 
 ## Day 1<a name="Day_1">&nbsp;</a>
 
 ### Patrick Kua - What I wish I knew as a first time tech lead<a name="Patrick_Kua">&nbsp;</a>
+
 Using his fantastic art in his slide-deck, Patrick Kua ([@patkua](http://twitter.com/@patkua)) gave everybody some pointers on the path to a _wise lead developer_.
 
 He mentioned some recognisable things such as: _trust your team_, _delegate to it_, _provide guidance_, _don’t write code all the time_, _don’t make all the technical decisions_.
