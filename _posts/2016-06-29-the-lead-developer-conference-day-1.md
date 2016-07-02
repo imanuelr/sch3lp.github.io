@@ -54,12 +54,19 @@ He mentioned some recognisable things such as: _trust your team_, _delegate to i
 But the coolest thing I learned was that there are certain skills of yourself (as a leader) that can be represented by archetypes or personas.
 Patrick identified the Coach, Shepherd, Shaman, and Champion. 
 
+#### The Coach
+
 _The Coach_ (e.g. in a soccer team) personifies the part of you that tries to keep the team together and motivated.
+
+#### The Shepherd
 
 _The Shepherd_ is the part of you that guides individuals back to the team, or guides the team to a shared goal.
 
+#### The Shaman
+
 _The Shaman_ is your story telling skill. I thought it was so cool that this is important enough to validate turning into a persona. I never thought of it that way but it sure is refreshing. 
 
+#### The Champion
 And finally _The Champion_, is that part of you that can _Lead by example_ your team to a higher level.
 
 We all carry all of these personas with us, it's certain situations that will call these out at times.
@@ -77,7 +84,11 @@ Heidi's ([@wiredferret](http://twitter.com/@wiredferret)) talk was mainly about 
 
 I learned that _Affordance_ is about nudging your users so they use your application correctly.
 
-About _Security_ she had a lovely quote: ​_Internet is not a series of tube connected to hackers wearing hoodies_​. That got a good laugh.
+About _Security_ she had a lovely quote: 
+
+_Internet is not a series of tubes connected to hackers wearing hoodies._
+
+That got a good laugh. :)
 
 About technical debt in general she said if it’s already in a release, you’ll get more resistance when trying fixing it. She made the fitting analogy by saying that trying to fix stuff in a codebase after its release is ​_like trying to pound chocolate chips into an already baked cookie_​.
 
