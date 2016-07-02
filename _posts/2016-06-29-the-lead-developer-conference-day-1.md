@@ -1,35 +1,51 @@
 ---
 layout: post
-title: The Lead Developer Conference
+title: The Lead Developer Conference - Day 1
 tags: [experience-report]
-published: false
+published: true
 ---
 ## The Lead Developer what now?
 The Lead Developer conference, or at least the one I went to, was held on the 23rd and 24th of June 2016, in the Queen Elizabeth II Centre in London, during the _Brexit_ vote.
 
 It's a conference mainly about "that other part" of a job as programmer, namely working with people.
 
-I can **highly** recommend this conference to anyone. It's not just for developers; scrum masters, managers, and other roles can all benefit from the abundance of information shared at this conference.
+I can **highly** recommend this conference to anyone. It's not just for developers; scrum masters, managers, and other roles can all learn from the abundance of information shared at this conference.
 
 All the slides can be found on the [conferences website](http://2016.theleaddeveloper.com/blog/2016-06-23-slides-from-the-lead-developer-2016), but I link to the specific slides (and my notes) in the short bits I write about the talks below.
 
-## A word of thanks
-Thank you to my faithful travel companions and Cegeka colleagues [Jan Sabbe](http://twitter.com/@jansabbe) and [Bart De Neuter](https://be.linkedin.com/in/bart-de-neuter-8058689).
+_Note: not all slides are online yet, but they're getting in when the speakers have taken the time to share them_
 
-Thanks also go out to my employer, [Cegeka](http://www.cegeka.com), who paid for travel, accomodation and the entrance fee.
+## A word of thanks
+Thank you to my faithful travel companions and colleagues [Jan Sabbe](http://twitter.com/@jansabbe) and [Bart De Neuter](https://be.linkedin.com/in/bart-de-neuter-8058689).
+
+Thanks also go out to our employer, [Cegeka](http://www.cegeka.com), who paid for travel, accomodation and the entrance fee.
 
 Thanks to the organizers, [White October Events](http://www.whiteoctoberevents.co.uk), who did an _amazing_ job at making everyone feel at home and for being super friendly people in general.
 
-And thanks to [Meri Williams](http://twitter.com/@Geek_Manager), with her witty announcements, for being the perfect host and inspiring example to us all.
+And thanks to [Meri Williams](http://twitter.com/@Geek_Manager), with her witty announcements, for being the perfect host and an inspiring example to us all.
 
 ## Scribblings of a madman
 Based on my [notes](http://github.com/sch3lp/LeadDevNotes), I'm sharing the most important things I learned in every talk I watched. So, you can decide if it's interesting or not.
 
-_Placeholder TOC_
+I'm also turning this into 2 blog posts, because after writing Day 1 it already was a lot.
 
-## Day 1
-### Patrick Kua - What I wish I knew as a first time tech lead
-Using his mesmerizing art in his slide-deck, Patrick Kua ([@patkua](http://twitter.com/@patkua)) gave everybody some pointers on the path to a _wise lead developer_.
+- [Day 1](/2016/06/29/the-lead-developer-conference-day-1/Day_1)
+    - [Patrick Kua - What I wish I knew as a first time tech lead](/2016/06/29/the-lead-developer-conference-day-1/Patrick_K)
+    - [Heidi Waterhouse - The 7 righteous fights](/2016/06/29/the-lead-developer-conference-day-1/Heidi_W)
+    - [Mike Gehard - Moving from Monolith to Microservices](/2016/06/29/the-lead-developer-conference-day-1/Mike_G)
+    - [Lorna Mitchell - Wonderful world of webhooks](/2016/06/29/the-lead-developer-conference-day-1/Lorna_M)
+    - [Dan North - How to make a sandwich](/2016/06/29/the-lead-developer-conference-day-1/Dan_N)
+    - [Duretti Hirpa - How to get engineering team to eat their vegetables](/2016/06/29/the-lead-developer-conference-day-1/Duretti_H)
+    - [Katie Fenn - Writing Modular Stylesheets with CSS Modules](/2016/06/29/the-lead-developer-conference-day-1/Katie_F)
+    - [Yasmina Banaszczuk - I know just the right person](/2016/06/29/the-lead-developer-conference-day-1/Yasmina_B)
+    - [Joel Chippindale - Telling stories through your commits](/2016/06/29/the-lead-developer-conference-day-1/Joel_C)
+    - [Sam Lambert - The argument for simplicity](/2016/06/29/the-lead-developer-conference-day-1/Sam_L)
+    - [Nickolas Means - How to crash an airplane](/2016/06/29/the-lead-developer-conference-day-1/Nickolas_M)
+- [Day 2](/2016/06/29/Day_2)
+
+## Day 1<a name="Day_1">&nbsp;</a>
+### Patrick Kua - What I wish I knew as a first time tech lead<a name="Patrick_Kua">&nbsp;</a>
+Using his fantastic art in his slide-deck, Patrick Kua ([@patkua](http://twitter.com/@patkua)) gave everybody some pointers on the path to a _wise lead developer_.
 
 He mentioned some recognisable things such as: _trust your team_, _delegate to it_, _provide guidance_, _don’t write code all the time_, _don’t make all the technical decisions_.
 
@@ -48,11 +64,11 @@ We all carry all of these personas with us, it's certain situations that will ca
 
 Patrick closed off by saying that our role as Lead gives us greater impact. And instead of becoming the [_10x Dev_](http://www.construx.com/10x_Software_Development/Productivity_Variations_Among_Software_Developers_and_Teams__The_Origin_of_10x/), we can grow the individuals in our team so that the team becomes the _10x Dev_.
 
-This keynote really set the tone for the talks that we'd see over the course of the next 2 days in London.
+This keynote really set the tone for the talks that we'd see over the course of the next 2 days.
 
 [Slides](http://www.slideshare.net/thekua/what-i-wish-i-knew-as-a-first-time-tech-lead) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev.md)
 
-### Heidi Waterhouse - The 7 righteous fights
+### Heidi Waterhouse - The 7 righteous fights<a name="Heidi_Waterhouse">&nbsp;</a>
 The 7 righteous fights... you should be fighting.
 
 Heidi's ([@wiredferret](http://twitter.com/@wiredferret)) talk was mainly about making sure your application adheres to _Localization_, _Security_, _Extensibility_, _Documentation_, _Affordance_, _Acceptance_ and _Accessibility_. If you don’t take these into account, you’ll build up _compound technical debt_.
@@ -61,12 +77,12 @@ I learned that _Affordance_ is about nudging your users so they use your applica
 
 About _Security_ she had a lovely quote: ​_Internet is not a series of tube connected to hackers wearing hoodies_​. That got a good laugh.
 
-About technical debt in general she said if it’s already in a release, you’ll get more resistance of fixing it. She made the fitting analogy by saying that trying to fix stuff in a codebase after it's release is ​_like trying to pound chocolate chips into an already baked cookie_​.
+About technical debt in general she said if it’s already in a release, you’ll get more resistance when trying fixing it. She made the fitting analogy by saying that trying to fix stuff in a codebase after its release is ​_like trying to pound chocolate chips into an already baked cookie_​.
 
 [Slides](https://docs.google.com/presentation/d/1-IXKHM__IeS9h4OhGODzXIrqVZGD6dzZk1SN3v_rBeo/edit#slide=id.p) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev2.md)
 
-### Mike Gehard - Moving from Monolith to Microservices
-Mike ([@mikegehard](http://twitter.com/@mikegehard)) went so fast through his presentation that it's gonna take me at least a second viewing to really understand all the things he was trying to say.
+### Mike Gehard - Moving from Monolith to Microservices<a name="Mike_Gehard">&nbsp;</a>
+Mike ([@mikegehard](http://twitter.com/@mikegehard)) went so fast through his presentation, that it's gonna take me at least a second viewing to really understand all the things he was trying to say.
 
 The way Mike approached moving from a Monolith to Microservices is by starting from a monolith and then move towards Microservices, instead of trying to guess which microservice to distill from your application and do _trial and error_ from that position.
 
@@ -85,14 +101,14 @@ This made me feel right at home. :)
 
 [Slides](https://github.com/mikegehard/journeyFromMonolithToMicroservicesSlides/tree/leadDev) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev3.md)
 
-### Lorna Mitchell - Wonderful world of webhooks
+### Lorna Mitchell - Wonderful world of webhooks<a name="Lorna_Mitchell">&nbsp;</a>
 Lorna ([@lornajane](http://twitter.com/@lornajane)) gave a lightning talk about why WebHooks are cool.
 
 I remember that Webhooks are less chatty, and that its content is usually large (coars-grained) because you want to push the information that's useful to 80% of the use cases to stay as least chatty as possible.
 
 [Slides](https://speakerdeck.com/lornajane/the-wonderful-world-of-webhooks) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev4.md)
 
-### Dan North - How to make a sandwich
+### Dan North - How to make a sandwich<a name="Dan_North">&nbsp;</a>
 Dan ([@tastapod](http://twitter.com/@tastapod)) North, the man, the Legend, gave a really great talk about _Feedback_.
 
 He first talked about Feedback in the context of Systems Theory, which he does a way better job at explaining than I ever will so watch the video when it's released.
@@ -109,7 +125,7 @@ Great talk to start off the lunch. :)
 
 [Slides](https://speakerdeck.com/tastapod/how-to-make-a-sandwich) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev5.md)
 
-### Duretti Hirpa - How to get engineering team to eat their vegetables
+### Duretti Hirpa - How to get engineering team to eat their vegetables<a name="Duretti_Hirpa">&nbsp;</a>
 To stay in the food analogies after a very nice lunch, Duretti's ([@Duretti](http://twitter.com/@duretti)) talk about how teams operate had some really great one liners.
 
 My favorite ones being _(Acceptance of) vulnerability leads to a learning culture_, _Coordination **IS** competitive advantage_, _Productivity is a measure of comfort_.
@@ -125,7 +141,7 @@ Nice talk with a whole lot of truth bombs. Worth watching when the video's get r
 
 [Slides](https://speakerdeck.com/duretti/how-to-get-engineering-teams-to-eat-their-vegetables) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev6.md)
 
-### Katie Fenn - Writing Modular Stylesheets with CSS Modules
+### Katie Fenn - Writing Modular Stylesheets with CSS Modules<a name="Katie_Fenn">&nbsp;</a>
 Katie Fenn ([@katie_fenn](http://twitter.com/@katie_fenn)) took the stage and talked about how CSS Modularization is sensical because along with making components in JavaScript, you also want the same for your CSS.
 
 `CSS Modules` is the way to achieve this fairly easily. I think it makes the most sense when you work with `JSX` components like you do when you use `ReactJS`.
@@ -134,7 +150,7 @@ Other than the various JS loaders, you can also use it with both Sass and Less.
 
 [Slides](https://slidr.io/katiefenn/writing-modular-stylesheets-with-css-modules-the-lead-developer-2016#1) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev7.md)
 
-### Yasmina Banaszczuk - I know just the right person
+### Yasmina Banaszczuk - I know just the right person<a name="Yasmina_Banaszczuk">&nbsp;</a>
 After that short technical talk, in came Yasmina ([@lasersushi](http://twitter.com/@lasersushi)), ready to blow us all away with refreshing german directness and delicate, yet powerful tone of voice. 
 
 Her talk was all about how our (personal) networks can influence hiring and retention in the tech industry.
@@ -159,7 +175,7 @@ If you're interested in more of her research, definitely check out [her website]
 
 Slides / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev8.md)
 
-### Joel Chippindale - Telling stories through your commits
+### Joel Chippindale - Telling stories through your commits<a name="Joel_Chippindale">&nbsp;</a>
 One of Joel Chippindale ([@joelchippindale](http://twitter.com/@joelchippindale)) was preaching to the choir (at least on my part) about how _The key challenge as lead dev is managing complexity_ and how _Naming, code design, refactoring and automated tests are all about **communicating** the intent of our software_.
 
 He then went on to say that VCS (like Git, Mercurial, SVN, ...) is underused in this regard.
@@ -180,7 +196,7 @@ Check out [his website dedicated](http://blog.mocoso.co.uk/talks/2015/01/12/tell
 
 [Slides](https://speakerdeck.com/mocoso/telling-stories-through-your-commits-lead-developer-conference-2016) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev9.md)
 
-### Sam Lambert - The argument for simplicity
+### Sam Lambert - The argument for simplicity<a name="Sam_Lambert">&nbsp;</a>
 Sam Lambert ([@isamlambert](http://twitter.com/@isamlambert)) taught us a bit about how they work at github.
 
 They deploy with hubot in slack so they can easily backtrace what happened before and after in the conversation that is deploying to production. Neat!
@@ -192,10 +208,10 @@ At the end, in stead of mentioning his own internet _location_ he shared some pe
 
 Slides / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev10.md)
 
-### Nickolas Means - How to crash an airplane
+### Nickolas Means - How to crash an airplane<a name="Nickolas_Means">&nbsp;</a>
 Jezus christ, how do I even begin summarizing this talk.
 
-Nickolas ([@nmeans](http://twitter.com/@nmeans), airplane afficionado) left the audience mesmerized and awe struck after channeling his inner _Shaman_, telling us a story about how a horrible plane crash could've turned out even worse if it weren't for _Cockpit Resource Management_.
+Nickolas ([@nmeans](http://twitter.com/@nmeans), glorious beardy man, airplane afficionado, ...) left the audience mesmerized and awe struck after channeling his inner _Shaman_, telling us a story about how a horrible plane crash could've turned out even worse if it weren't for _Cockpit Resource Management_.
 And making the analogy to what makes up a good team.
 
 If there's one presentation you should watch of this conference, it's this one.
@@ -212,4 +228,5 @@ _Software is a team sport._
 
 Slides / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev11.md)
 
-## Day 2
+## Day 2<a name="Day_2">&nbsp;</a>
+Still writing Day 2, hang in there... ;)
