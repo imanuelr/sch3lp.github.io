@@ -30,17 +30,17 @@ Based on my [notes](http://github.com/sch3lp/LeadDevNotes), I'm sharing the most
 I'm also turning this into 2 blog posts, because after writing Day 1 it already was a lot.
 
 - [Day 1](/2016/06/29/the-lead-developer-conference-day-1/Day_1)
-    - [Patrick Kua - What I wish I knew as a first time tech lead](/2016/06/29/the-lead-developer-conference-day-1/Patrick_K)
-    - [Heidi Waterhouse - The 7 righteous fights](/2016/06/29/the-lead-developer-conference-day-1/Heidi_W)
-    - [Mike Gehard - Moving from Monolith to Microservices](/2016/06/29/the-lead-developer-conference-day-1/Mike_G)
-    - [Lorna Mitchell - Wonderful world of webhooks](/2016/06/29/the-lead-developer-conference-day-1/Lorna_M)
-    - [Dan North - How to make a sandwich](/2016/06/29/the-lead-developer-conference-day-1/Dan_N)
-    - [Duretti Hirpa - How to get engineering team to eat their vegetables](/2016/06/29/the-lead-developer-conference-day-1/Duretti_H)
-    - [Katie Fenn - Writing Modular Stylesheets with CSS Modules](/2016/06/29/the-lead-developer-conference-day-1/Katie_F)
-    - [Yasmina Banaszczuk - I know just the right person](/2016/06/29/the-lead-developer-conference-day-1/Yasmina_B)
-    - [Joel Chippindale - Telling stories through your commits](/2016/06/29/the-lead-developer-conference-day-1/Joel_C)
-    - [Sam Lambert - The argument for simplicity](/2016/06/29/the-lead-developer-conference-day-1/Sam_L)
-    - [Nickolas Means - How to crash an airplane](/2016/06/29/the-lead-developer-conference-day-1/Nickolas_M)
+    - [Patrick Kua - What I wish I knew as a first time tech lead](/2016/06/29/the-lead-developer-conference-day-1/Patrick_Kua)
+    - [Heidi Waterhouse - The 7 righteous fights](/2016/06/29/the-lead-developer-conference-day-1/Heidi_Waterhouse)
+    - [Mike Gehard - Moving from Monolith to Microservices](/2016/06/29/the-lead-developer-conference-day-1/Mike_Gehard)
+    - [Lorna Mitchell - Wonderful world of webhooks](/2016/06/29/the-lead-developer-conference-day-1/Lorna_Mitchell)
+    - [Dan North - How to make a sandwich](/2016/06/29/the-lead-developer-conference-day-1/Dan_North)
+    - [Duretti Hirpa - How to get engineering team to eat their vegetables](/2016/06/29/the-lead-developer-conference-day-1/Duretti_Hirpa)
+    - [Katie Fenn - Writing Modular Stylesheets with CSS Modules](/2016/06/29/the-lead-developer-conference-day-1/Katie_Fenn)
+    - [Yasmina Banaszczuk - I know just the right person](/2016/06/29/the-lead-developer-conference-day-1/Yasmina_Banaszczuk)
+    - [Joel Chippindale - Telling stories through your commits](/2016/06/29/the-lead-developer-conference-day-1/Joel_Chippindale)
+    - [Sam Lambert - The argument for simplicity](/2016/06/29/the-lead-developer-conference-day-1/Sam_Lambert)
+    - [Nickolas Means - How to crash an airplane](/2016/06/29/the-lead-developer-conference-day-1/Nickolas_Means)
 - [Day 2](/2016/06/29/Day_2)
 
 ## Day 1<a name="Day_1">&nbsp;</a>
