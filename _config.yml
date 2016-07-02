@@ -14,7 +14,7 @@ baseurl:          '/'
 paginate:         5
 
 tagcloud:
-  url:            /tagcloud/
+  url:            '/tagcloud/'
 
 author:
   name:           'Tim Schraepen'
