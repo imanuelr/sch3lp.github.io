@@ -13,6 +13,9 @@ url:              http://sch3lp.github.io
 baseurl:          '/'
 paginate:         5
 
+tagcloud:
+  url:            /tagcloud/
+
 author:
   name:           'Tim Schraepen'
   email:          sch3lp@gmail.com

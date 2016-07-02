@@ -25,6 +25,7 @@
       {% endif %}
     {% endfor %}
 
+    <a class="sidebar-nav-item{% if page.url == site.tagcloud.url %} active{% endif %}" href="{{ site.tagcloud.url }}">Tag Cloud</a>
     <a class="sidebar-nav-item" href="https://github.com/poole/lanyon">Lanyon theme GitHub project</a>
     
   </nav>
