@@ -86,7 +86,7 @@ I learned that _Affordance_ is about nudging your users so they use your applica
 
 About _Security_ she had a lovely quote: 
 
-_Internet is not a series of tubes connected to hackers wearing hoodies._
+>Internet is not a series of tubes connected to hackers wearing hoodies.
 
 That got a good laugh. :)
 
@@ -231,13 +231,13 @@ If there's one presentation you should watch of this conference, it's this one.
 
 A grasp out of some of his quotes:
 
-_Cooperation over Heroics_
+>Cooperation over Heroics
 
-_Everyone has a voice._
+>Everyone has a voice.
 
-_As leaders we need to avoid teams to develop dominant voices, especially our own. Use your authority to ensure every voice is heard._
+>As leaders we need to avoid teams to develop dominant voices, especially our own. Use your authority to ensure every voice is heard.
 
-_Software is a team sport._
+>Software is a team sport.
 
 Slides / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev11.md)
 
