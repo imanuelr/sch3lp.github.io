@@ -11,15 +11,18 @@ The Lead Developer conference, or at least the one I went to, was held on the 23
     - [Michael Lopp - Leadership by the numbers](/2016/07/05/the-lead-developer-conference-day-2/#Michael_Lopp)
 
 ## Day 2<a name="Day_2">&nbsp;</a>
+
 ### Michael Lopp - Leadership by the numbers<a name="Michael_Lopp">&nbsp;</a>
 So Michael Lopp, [@rands](http://twitter.com/@rands), is a guy with a HUGE amount of knowledge. I'm very glad he was so generous to share with us.
 
-He guided his talk somewhat weird and I didn't fully understand what anything he said had anything to do with _Leadership by the numbers_, but the content was great.
+He guided his talk somewhat weird and I didn't fully understand what the stuff he was saying had to do with _Leadership by the numbers_, but the content was great.
 
-He started off by testing the skills of the people that were captioning the entire conference by saying out loud _Ok I gotta test this real quick... Supercalifragilisticexpialidocious_. After the word appeared after 1-2 seconds, the crowd went wild. :) These guys really did an amazing job. I found myself checking to see what was said when some of the presenters went a bit fast for me to keep up with my notes. So thanks again guys!
+He started off by testing the skills of the people that were captioning the entire conference by saying out loud _Ok I gotta test this real quick... Supercalifragilisticexpialidocious_. After the word appeared after 1-2 seconds, the crowd went wild. :) 
+
+These guys really did do an amazing job. I found myself checking to see what was said when some of the presenters went a bit fast for me to keep up with my notes. So thanks again guys!
 
 #### Team Communications
-I would be jealous to be in his team, because @Rands takes 30 minutes every week, no matter what, to have a 1 on 1 meeting with every member of his team.
+I would be jealous to be in his team, because @Rands takes 30 minutes every week, no matter what, to have a 1 on 1 meeting with every member of his team. Just to check in, and have a feeling of what's actually going on that week with his team. In contrast to the _Performance Evaluation_ timeslots everyone dreads because it feels so forced.
 
 He also has _staff starting points_, little 1 hour meetings to set the tone for the week. If you can't easily fill an hour, something is wrong.
 
