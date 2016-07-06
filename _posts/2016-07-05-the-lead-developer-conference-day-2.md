@@ -9,6 +9,7 @@ The Lead Developer conference, or at least the one I went to, was held on the 23
 
 - [Day 2](/2016/07/05/the-lead-developer-conference-day-2/Day_2)
     - [Michael Lopp - Leadership by the numbers](/2016/07/05/the-lead-developer-conference-day-2/#Michael_Lopp)
+    - [Ryan Alexander - Hacking verbal communication systems](/2016/07/05/the-lead-developer-conference-day-2/#Ryan_Alexander)
 
 ## Day 2<a name="Day_2">&nbsp;</a>
 
@@ -57,4 +58,45 @@ Great keynote to start off Day 2 if you ask me. The _tone_ was set again.
 
 [Slides](https://speakerdeck.com/calibrate/leadership-by-the-numbers) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev12.md)
 
+### Ryan Alexander - Hacking verbal communication systems<a name="Ryan_Alexander">&nbsp;</a>
+Ryan ([@RNAlexander](http://twitter.com/@RNAlexander)) Alexander took us on a deep dive into conversation.
+
+I learned that a group conversation or brainstorming session is like a race. Where everyone that's trying to talk next is at a starting line, holding their positions, waiting for the starter flare to go off (the one talking to stop talking).
+
+But that there might be people in the conversation that follow the rules, waiting in their position. And that there are others that don't, leaving the rest behind, before the starter flare was even fired.
+
+This is sort of a semi-conscious, complex algorithm going on in every participants head. And exactly because it's an algorithm, we can hack it.
+
+I never thought about discussions or conversations like this, but it makes **SO** much sense.
+
+Then I learned about the _Occupy Together_ hand signals. Where you can announce your intent, without interrupting, to the participants in the conversation. Click the image for a clarifying explanation, or watch Ryans talk when it gets released.
+
+[![]({{site.url}}/public/assets/2016-07-05-the-lead-developer-conference-day-2/occupy-hand-signals.jpg)](https://www.youtube.com/watch?v=dhJWd8-YAso)
+
+Seems like this would work WAY better than a simple "speech token".
+
+To facilitate everyone getting their chance to speak/communicate, the hand signals are more friendly to neurodiverse individuals. Moreover you can decide who's next to talk on the basis of whether or not they have spoken, this is called _Progressive Stack_.
+
+Great little talk with a boat load of information. Definitely worth your time!
+
+[Slides](https://speakerdeck.com/rnalexander/hacking-verbal-communications) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev13.md)
+
+### Yan Cui - Tour of language landscape<a name="Yan_Cui">&nbsp;</a>
+I'm sorry I didn't write down all that much in my notes about the stuff that Yan Cui ([@theburningmonk](http://twitter.com/@theburningmonk)) taught us. But it's because as I was sitting in the audience, it soon became apparent that this talk was gonna be a ridiculously interesting one and it would deserve my full attention.
+
+Here's the stuff I'm able to recollect though.
+
+After a short introduction on the impact of language on the way we think, he showcased some really excellent examples of how features in certain programming languages can make your code more expressive. He took a bunch of features of `F#`, `Clojure`, `Rust` and `Idris` and explained how they could make your code less error prone and more expressive at the same time.
+
+If you're in to [DDD's Ubiquitous Language](http://martinfowler.com/bliki/UbiquitousLanguage.html), there's no doubt that you should watch this talk. Even if you have 0 experience with the languages Yan mentions.
+
+He closes off his talk by encouraging everyone that didn't know the programming languages he mentioned. He did this through debunking Malcolm Gladwell's ["10,000 hours to master something" rule](https://en.wikipedia.org/wiki/Outliers_(book)), with [Josh Kaufmans correction](https://www.youtube.com/watch?v=5MgBikgcWnY) that says you can already be "good" at something after the first 20 hours.
+
+Really, interesting talk, hitting all the stuff I love. Would **highly** recommend.
+
+If you're not into watching a presentation, [read](http://theburningmonk.com/2015/04/dont-learn-a-syntax-learn-to-change-the-way-you-think/). [his](http://theburningmonk.com/2016/04/recording-and-slides-for-7-ineffective-coding-habits-many-f-programmers-dont-have/). [blog](http://theburningmonk.com/2015/04/learn-to-learn/)! This guy is a library of himself!
+
+Yan Cui, if you're reading this: Thank you!
+
+[Slides](http://www.slideshare.net/theburningmonk/tour-of-language-landscape-codeslinger-16) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev14.md)
 
