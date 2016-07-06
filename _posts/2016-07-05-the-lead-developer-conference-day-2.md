@@ -33,7 +33,7 @@ The obvious cost is that when you don't say something, work isn't getting done, 
 The less obvious cost is that your credibility as a leader is taking a hit, and that there's impact on folks you do not know. **Their** sanity is taking a hit. Michael has learned that _everyone is replaceable._. I learned that when you work for Michael, Rands, or whatever his name is, and he shows you a slide of corn, you're about to get fired.
 
 #### Diversity, delegation and leading by example
-Again, _Diversity_ made an appearance on stage. This time in the form of the [_Asch Conformity Experiments_](https://en.wikipedia.org/wiki/Asch_conformity_experiments), where the experiment show that you can easily get influenced by other people. Again, be aware of the bias that you probably hire people like you and that wanting a diverse team is a _no brainer_. And also that as leaders, we should be a diversity allies.
+Again, _Diversity_ made an appearance on stage. This time in the form of the [_Asch Conformity Experiments_](https://en.wikipedia.org/wiki/Asch_conformity_experiments), where the experiment shows that you can easily get influenced by other people. Again, be aware of the bias that you probably hire people like you and that wanting a diverse team is a _no brainer_. And also that as leaders, we should be a diversity allies.
 
 This phrase fired a bunch of neurons in my brain _You set tone and cadence... **all the time**_. Just like kids who watch you do stuff and repeat your actions you do subconsciously. He gave an example of his own daughter using redirection to a new game she saw at games convention E3, when she saw him enter her room all ready to lecture her. He realized that she learned that from him.
 
