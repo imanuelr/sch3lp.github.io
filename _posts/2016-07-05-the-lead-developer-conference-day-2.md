@@ -12,6 +12,7 @@ The Lead Developer conference, or at least the one I went to, was held on the 23
     - [Ryan Alexander - Hacking verbal communication systems](/2016/07/05/the-lead-developer-conference-day-2/#Ryan_Alexander)
     - [Crystal Huff - Dealing with Impostor syndrome](/2016/07/05/the-lead-developer-conference-day-2/#Crystal_Huff)
     - [Gil Zellner - How to not burn out your monitoring team](/2016/07/05/the-lead-developer-conference-day-2/#Gil_Zellner)
+    - [Monika Piotrowicz - Lessons from growing a team](/2016/07/05/the-lead-developer-conference-day-2/Monika_Piotrowicz)
 
 ## Day 2<a name="Day_2">&nbsp;</a>
 
@@ -165,3 +166,32 @@ Medium changes you can do (things that might take months to implement)
 For the hard things (that might take years) he mentioned some AWS stuff I didn't pick up on, but maybe you will so check out his slides (if you have seen Game of Thrones!).
 
 [Slides](http://www.slideshare.net/gilzellner/ignite-10m-how-to-not-burn-out-your-monitoring-team-63412030) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev16.md)
+
+### Monika Piotrowicz - Lessons from growing a team<a href="Monika_Piotrowicz">&nbsp;</a>
+Monika Piotrowicz ([@monsika](http://twitter.com/@monsika)) talked about her experience of growing into a leader of dev leads.
+
+>A lead will have some combination of
+tech knowledge and skills,
+understanding of the business and product,
+and trust from their team.
+**All so they can help develop their team.**
+
+And you can't build a version of someone in only one day that has all those qualities. So what you want to do is encourage those traits in your entire team and see who picks 'em up.
+
+You can do this first of all by simply asking who's up for becoming a lead (in the future), then talk about what it involves, and create opportunities for those candidates.
+
+To help your colleagues and yourself grow, fill in the blanks
+
+> Most impactful thing I can do today is ...
+> 
+> Right now I'm not great at ...
+> 
+> In a few months I want to try ...
+
+Remember to _Make Space_ for your candidates to grow. _I trust you to do the right thing - here's a list of things you should do_ is not how you make space. :)
+
+This was all pretty great advice, but this one I felt like sharing with our current coach.
+
+> Every time you think you're protecting your team by going to a meeting yourself, delegate to the team instead.
+
+[Slides](http://www.slideshare.net/mpiotrowicz/leading-leads-lessons-from-a-growing-team) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev17.md)
