@@ -11,6 +11,7 @@ The Lead Developer conference, or at least the one I went to, was held on the 23
     - [Michael Lopp - Leadership by the numbers](/2016/07/05/the-lead-developer-conference-day-2/#Michael_Lopp)
     - [Ryan Alexander - Hacking verbal communication systems](/2016/07/05/the-lead-developer-conference-day-2/#Ryan_Alexander)
     - [Crystal Huff - Dealing with Impostor syndrome](/2016/07/05/the-lead-developer-conference-day-2/#Crystal_Huff)
+    - [Gil Zellner - How to not burn out your monitoring team](/2016/07/05/the-lead-developer-conference-day-2/#Gil_Zellner)
 
 ## Day 2<a name="Day_2">&nbsp;</a>
 
@@ -133,4 +134,34 @@ So thanks for helping me combat _Impostor Syndrome_!
 
 [Slides](https://speakerdeck.com/chuff18/addressing-impostor-syndrome-in-30-minutes) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev15.md)
 
+### Gil Zellner - How to not burn out your monitoring team<a href="Gil_Zellner">&nbsp;</a>
 
+We switched to a more 'techie' track with Gil Zellner ([@heathenaspargus](http://twitter.com/@heathenaspargus)) giving tips on how not to burn out your monitoring (operations) team.
+
+But before he did, he reminded us that the cost of hiring a new employee is 1.5 to 3 times their salary. So you might wanna retain those guys at ops by helping them as much as you can.
+
+**Caution** 
+
+Do **NOT** watch this presentation or the slides if you haven't seen Game of Thrones episode 9 of season 6 yet, there's a massive spoiler in his slides. :)
+
+Easy changes you can do to help (takes days to implement):
+
+* Mandatory half day off after night production issue.
+* Allocate weekly time to resolve or automate issues that kept us up at night.
+* Wider rotation (more people on call).
+* Follow the sun (if you have multiple timezones).
+
+Medium changes you can do (things that might take months to implement)
+
+* ALERT ALL THE THINGS leads to alert fatigue.
+* So only alert on symptoms, not suspected "causes"
+* Only alert on actionable stuff
+* Only alert on business breaking stuff.
+* Direct alerts to relevant parties.
+* LOG ALL THE THINGS can tremendously help the team that gets woken out of their beds at night, but can lead to overwhelming stuff, especially if you also log success.
+* Connect _det_ection scripts to _corr_ection scripts.
+* See [Facebook Auto Remediation](https://www.facebook.com/notes/facebook-engineering/making-facebook-self-healing/10150275248698920/).
+
+For the hard things (that might take years) he mentioned some AWS stuff I didn't pick up on, but maybe you will so check out his slides (if you have seen Game of Thrones!).
+
+[Slides](http://www.slideshare.net/gilzellner/ignite-10m-how-to-not-burn-out-your-monitoring-team-63412030) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev16.md)
