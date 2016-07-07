@@ -2,7 +2,7 @@
 layout: post
 title: The Lead Developer Conference - Day 2
 tags: [experience-report]
-published: false
+published: true
 ---
 ## The Lead Developer - continued
 The Lead Developer conference, or at least the one I went to, was held on the 23rd and 24th of June 2016, in the Queen Elizabeth II Centre in London, during the _Brexit_ vote.
@@ -10,6 +10,7 @@ The Lead Developer conference, or at least the one I went to, was held on the 23
 - [Day 2](/2016/07/05/the-lead-developer-conference-day-2/Day_2)
     - [Michael Lopp - Leadership by the numbers](/2016/07/05/the-lead-developer-conference-day-2/#Michael_Lopp)
     - [Ryan Alexander - Hacking verbal communication systems](/2016/07/05/the-lead-developer-conference-day-2/#Ryan_Alexander)
+    - [Crystal Huff - Dealing with Impostor syndrome](/2016/07/05/the-lead-developer-conference-day-2/#Crystal_Huff)
 
 ## Day 2<a name="Day_2">&nbsp;</a>
 
@@ -99,4 +100,37 @@ If you're not into watching a presentation, [read](http://theburningmonk.com/201
 Yan Cui, if you're reading this: Thank you!
 
 [Slides](http://www.slideshare.net/theburningmonk/tour-of-language-landscape-codeslinger-16) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev14.md)
+
+### Crystal Huff - Dealing with Impostor syndrome<a name="Crystal_Huff">&nbsp;</a>
+Crystal ([@crystalhmhuff](http://twitter.com/@crystalhmhuff)) replaced another presenter at the last minute, and her presentation was very interesting nonetheless.
+
+_Impostor Syndrome_ is not a disease, unlike the term suggests, but rather a state in which you think you feel underqualified but when in reality you're really not.
+
+It can have real consequences such as being less effective as collaborators (because nobody wants to be seen making a mistake), getting fewer promotions (because an impostor feels unworthy), etc. In the end the negative impact comes down to being marginalized and being silenced.
+
+It gets fed by sentiments like _Fake it until you make it_, when if successful, you actually will have been an imposter. Other things that feed into it are phrases like _Women are bad at math_. Even worse is when you give in to those stereotypes where you say for example _Math is hard, let's go shopping_.
+
+Other important, notable things that might trigger it are comparing your worst snapshot to someone elses best snapshot, and the _Being Liked vs. Being Competetent_ dichotomy.
+
+There are ways of combatting it though. And as usual it involves gaining more awareness. For example by asking your colleagues or friends about your strengths. Or by realizing your heroes struggle with this as well, and picturing _the iceberg (illusion) of success_.
+
+[![Just the tip]({{site.url}}/public/assets/2016-07-05-the-lead-developer-conference-day-2/the-iceberg-illusion.jpg)](https://plus.google.com/+SylviaDuckworth/posts/fjVw5ZFs1Cb)
+
+Preventing _Impostor Syndrome_ involves watching out for certain things that you say e.g. _I'm not an expert, but..._. If you repeat that phrase often enough, you'll eventually believe it.
+
+Compare yourself with yourself. Compare your past self (on your own personal scale of where you want to be in life), to your current and future self. Instead of comparing snapshots of your _worst self_ to snapshots of somebody elses _best self_. This made a lot of sense, but it's something you just need to hear more.
+
+Crystal also inspired us to help each other prevent it by critiquing with kindness. Compliments are better when they're personal. A good compliment is positive, not physical, specific, and honest. See [Dan North's "How to make a sandwich"](/2016/06/29/the-lead-developer-conference-day-1/#Dan_North) presentation about feedback.
+When you notice someone else struggling with impostor syndrome, help them remind themselves of their happy thoughts and experiences.
+
+I did reach out via the company Slack channel for someone to tell me 3 awesome things about me and here's what I got.
+
+> You speak your mind, even to people you don't know that well.
+> You're not scared (you don't show it at least) to try out new things.
+> When you're enthusiastic about something, you shine your ray of enthusiasm onto other people. (you pull them along)
+
+So thanks for helping me combat _Impostor Syndrome_!
+
+[Slides](https://speakerdeck.com/chuff18/addressing-impostor-syndrome-in-30-minutes) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev15.md)
+
 
