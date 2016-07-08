@@ -16,6 +16,7 @@ The Lead Developer conference, or at least the one I went to, was held on the 23
     - [Thomas Lobinger - Working backwards from the customer](/2016/07/05/the-lead-developer-conference-day-2/#Thomas_Lobinger)
     - [Penny Wyatt - Overhead, not downtrodden](/2016/07/05/the-lead-developer-conference-day-2/#Penny_Wyatt)
     - [Melinda Seckington - How to succeed at hiring without really trying](/2016/07/05/the-lead-developer-conference-day-2/#Melinda_Seckington)
+    - [Laura Czajkowski - How to deal with the cultural divide and internal advocacy within distributed teams](/2016/07/05/the-lead-developer-conference-day-2/#Laura_Czajkowski)
 
 ## Day 2<a name="Day_2">&nbsp;</a>
 
@@ -268,4 +269,16 @@ From now on, I'm going to try and change my approach, by offering to help them w
 In any case, Melinda's talk is a presentation you should show to your HR colleagues and/or your guild leads. 
 
 [Slides](http://www.slideshare.net/mseckington/how-to-succeed-at-hiring-without-really-trying) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev20.md)
+
+### Laura Czajkowski - How to deal with the cultural divide and internal advocacy within distributed teams<a name="Laura_Czajkowski">&nbsp;</a>
+Laura Czajkowski ([@czajkowski](http://twitter.com/@czajkowski)) works from home, for Couchbase. She was so kind to share her experience doing this and some pro-tips to help deal with the typical problems.
+
+If you ever did some remoting yourself, you'll recognize a lot of her descriptions. Most notably missing social talk and work discussions because of the absence of a watercooler (or coffee room), and lag (delay) issues with VOIP tools.
+
+Watch her presentation when it gets posted online for some pro tips on dealing with these situations.
+
+If I ever work remotely again I'll be sure to try out her tip on bringing your [morning beverage](https://twitter.com/Czajkowski/status/751467083066667009) to the friday mornings stand-up, and talk a bit about your weekend plans. This helps in getting to know your remote colleagues a bit more.
+
+Slides / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev21.md)
+
 
