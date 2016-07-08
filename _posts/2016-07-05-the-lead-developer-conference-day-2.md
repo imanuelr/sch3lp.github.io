@@ -14,6 +14,7 @@ The Lead Developer conference, or at least the one I went to, was held on the 23
     - [Gil Zellner - How to not burn out your monitoring team](/2016/07/05/the-lead-developer-conference-day-2/#Gil_Zellner)
     - [Monika Piotrowicz - Lessons from growing a team](/2016/07/05/the-lead-developer-conference-day-2/#Monika_Piotrowicz)
     - [Thomas Lobinger - Working backwards from the customer](/2016/07/05/the-lead-developer-conference-day-2/#Thomas_Lobinger)
+    - [Penny Wyatt - Overhead, not downtrodden](/2016/07/05/the-lead-developer-conference-day-2/#Penny_Wyatt)
 
 ## Day 2<a name="Day_2">&nbsp;</a>
 
@@ -226,3 +227,28 @@ I do believe that it'll work better for products you're making yourself and inno
 Maybe it's a great additional method to working on RFP's or starting teams around a new project.
 
 Slides / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev18.md)
+
+
+### Penny Wyatt - Overhead, not downtrodden<a name="Penny_Wyatt">&nbsp;</a>
+Atlassian's Penny Wyatt ([@pennozewyatt](http://twitter.com/@pennozewyatt)) gave us a bunch of tips when working in Quality Assurance.
+
+* Embrace you're in an overhead team.
+* Broaden your view, work towards the company and customers goals.
+* Cost is not value.
+* Leaders are overhead too, so focus on where you can add value.
+
+She told an anecdote where she spent 3 extra months testing stuff because the devs didn't catch a lot of edge cases. At first she felt great because since it took her that long to thoroughly test the application and improve the quality of it. She felt like her role got validated because of this. Of course those 3 months were not perceived as extra value, but as extra cost.
+
+There were better solutions to build in quality in to that team, like working more closely together with them. And focusing on installing quicker feedback loops.
+
+They moved closer towards this goal by putting more accountability on the Quality Assurance team, so they wouldn't just be accountable for quality, but also for development speed.
+
+This caused them to work in close cooperation with the development team. And eventually get renamed from the Quality _Assurance_ team to Quality _Assistance_ team. Moreover because they were helping the dev teams become more accountable and more **interested** in quality.
+
+Even though this caused her to do less Q&A, it produced more value in the end. She made the comparison to how management can also be considered overhead.
+
+Instead of trying to get better quality by adding more developers, they can be able to get more value AND better quality from a smaller team, by letting the team improve their performance.
+
+Slides / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev19.md)
+
+
