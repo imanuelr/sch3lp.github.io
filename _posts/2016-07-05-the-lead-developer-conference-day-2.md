@@ -12,7 +12,8 @@ The Lead Developer conference, or at least the one I went to, was held on the 23
     - [Ryan Alexander - Hacking verbal communication systems](/2016/07/05/the-lead-developer-conference-day-2/#Ryan_Alexander)
     - [Crystal Huff - Dealing with Impostor syndrome](/2016/07/05/the-lead-developer-conference-day-2/#Crystal_Huff)
     - [Gil Zellner - How to not burn out your monitoring team](/2016/07/05/the-lead-developer-conference-day-2/#Gil_Zellner)
-    - [Monika Piotrowicz - Lessons from growing a team](/2016/07/05/the-lead-developer-conference-day-2/Monika_Piotrowicz)
+    - [Monika Piotrowicz - Lessons from growing a team](/2016/07/05/the-lead-developer-conference-day-2/#Monika_Piotrowicz)
+    - [Thomas Lobinger - Working backwards from the customer](/2016/07/05/the-lead-developer-conference-day-2/#Thomas_Lobinger)
 
 ## Day 2<a name="Day_2">&nbsp;</a>
 
@@ -135,7 +136,7 @@ So thanks for helping me combat _Impostor Syndrome_!
 
 [Slides](https://speakerdeck.com/chuff18/addressing-impostor-syndrome-in-30-minutes) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev15.md)
 
-### Gil Zellner - How to not burn out your monitoring team<a href="Gil_Zellner">&nbsp;</a>
+### Gil Zellner - How to not burn out your monitoring team<a name="Gil_Zellner">&nbsp;</a>
 
 We switched to a more 'techie' track with Gil Zellner ([@heathenaspargus](http://twitter.com/@heathenaspargus)) giving tips on how not to burn out your monitoring (operations) team.
 
@@ -167,7 +168,7 @@ For the hard things (that might take years) he mentioned some AWS stuff I didn't
 
 [Slides](http://www.slideshare.net/gilzellner/ignite-10m-how-to-not-burn-out-your-monitoring-team-63412030) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev16.md)
 
-### Monika Piotrowicz - Lessons from growing a team<a href="Monika_Piotrowicz">&nbsp;</a>
+### Monika Piotrowicz - Lessons from growing a team<a name="Monika_Piotrowicz">&nbsp;</a>
 Monika Piotrowicz ([@monsika](http://twitter.com/@monsika)) talked about her experience of growing into a leader of dev leads.
 
 >A lead will have some combination of
@@ -195,3 +196,35 @@ This was all pretty great advice, but this one I felt like sharing with our curr
 > Every time you think you're protecting your team by going to a meeting yourself, delegate to the team instead.
 
 [Slides](http://www.slideshare.net/mpiotrowicz/leading-leads-lessons-from-a-growing-team) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev17.md)
+
+### Thomas Lobinger - Working backwards from the customer<a name="Thomas_Lobinger">&nbsp;</a>
+Thomas Lobinger ([@tlobinger](http://twitter.com/@tlobinger)) works at Amazon and talked about their (literally) backwards approach of aligning a team on values and creating a shared vision.
+
+What I mean by _backwards_ is that they'll start with the end goal and work backwards from there.
+
+So what they do is first they create a mock `Press Release` that shows, among regular stuff like title and summary, a quote of the customer and the team.
+
+This helps them in not only creating a shared vision and understanding, but also a shared motivation. It's what we usually try to do with a `Mission statement` of a project team. But I think it goes much further than that, because you're imagining what impact your end result will have on the users or your clients.
+
+After they've written this, they'll create a `FAQ` document from the perspective of customers and stakeholders.
+
+During the creation of the `Press Release` the team will have come up with a bunch of questions that you might be able to include in the `FAQ` as well. I think I can compare this to trying to figure out non-functional requirements during an RFP.
+
+Then they'll create `Mockups` of what their product/solution will look like.
+It should tell the story of how a user would use the product they're going to build.
+
+I've noticed that, much like Simon Brown's ([@simonbrown](http://twitter.com/@simonbrown)) [C4 Diagrams](https://www.structurizr.com/help/c4), with this approach they're effectively zooming in to their product, but from a less technical perspective. Every level of detail seems to put more focus on the users perspective. You know... the one we're actually making this thing for.
+
+Of course Thomas doesn't just write these documents once and then be done with them. They iterate over them, so when they come across questions or more insight that should go in their `Press Release`, they put that stuff in there and update the rest accordingly.
+
+If you're looking for more information about this, it seems Werner Vogels ([@werner](http://twitter.com/@werner)) already wrote a [blog post](http://www.allthingsdistributed.com/2006/11/working_backwards.html) about this exact method back in 2006.
+
+I do believe that it'll work better for products you're making yourself and innovations, rather than projects you do for clients, because there are no feedback loops from clients. But it's easy to imagine asking the questions or verifying the assumptions that will come up when creating these documents.
+
+Maybe it's a great additional method to working on RFP's or starting teams around a new project.
+
+Slides / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev18.md)
+
+
+
+
