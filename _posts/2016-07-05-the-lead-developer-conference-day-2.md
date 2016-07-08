@@ -217,6 +217,8 @@ I've noticed that, much like Simon Brown's ([@simonbrown](http://twitter.com/@si
 
 Of course Thomas doesn't just write these documents once and then be done with them. They iterate over them, so when they come across questions or more insight that should go in their `Press Release`, they put that stuff in there and update the rest accordingly.
 
+So really what they've done is come up with a sort of _Living Documentation_ that is able to continuously provide a _Shared Understanding_ and _Shared Values_ on a team.
+
 If you're looking for more information about this, it seems Werner Vogels ([@werner](http://twitter.com/@werner)) already wrote a [blog post](http://www.allthingsdistributed.com/2006/11/working_backwards.html) about this exact method back in 2006.
 
 I do believe that it'll work better for products you're making yourself and innovations, rather than projects you do for clients, because there are no feedback loops from clients. But it's easy to imagine asking the questions or verifying the assumptions that will come up when creating these documents.
@@ -224,7 +226,3 @@ I do believe that it'll work better for products you're making yourself and inno
 Maybe it's a great additional method to working on RFP's or starting teams around a new project.
 
 Slides / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev18.md)
-
-
-
-
