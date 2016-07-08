@@ -168,7 +168,7 @@ Medium changes you can do (things that might take months to implement)
 * Only alert on business breaking stuff.
 * Direct alerts to relevant parties.
 * LOG ALL THE THINGS can tremendously help the team that gets woken out of their beds at night, but can lead to overwhelming stuff, especially if you also log success.
-* Connect _det_ection scripts to _corr_ection scripts.
+* Connect detection scripts to correction scripts.
 * See [Facebook Auto Remediation](https://www.facebook.com/notes/facebook-engineering/making-facebook-self-healing/10150275248698920/).
 
 For the hard things (that might take years) he mentioned some AWS stuff I didn't pick up on, but maybe you will so check out his slides (if you have seen Game of Thrones!).
