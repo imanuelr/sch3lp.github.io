@@ -2,12 +2,14 @@
 layout: post
 title: The Lead Developer Conference - Day 2
 tags: [experience-report]
-published: false
+published: true
 ---
 ## The Lead Developer - continued
 The Lead Developer conference, or at least the one I went to, was held on the 23rd and 24th of June 2016, in the Queen Elizabeth II Centre in London, during the _Brexit_ vote.
 
-- [Day 2](/2016/07/05/the-lead-developer-conference-day-2/Day_2)
+This is a post about all of the talks of Day 2, and I'm sorry that this one is considerably longer than [Day 1](/2016/06/29/the-lead-developer-conference-day-1). I don't know what happened. :)
+
+- [Day 2](/2016/07/05/the-lead-developer-conference-day-2/#Day_2)
     - [Michael Lopp - Leadership by the numbers](/2016/07/05/the-lead-developer-conference-day-2/#Michael_Lopp)
     - [Ryan Alexander - Hacking verbal communication systems](/2016/07/05/the-lead-developer-conference-day-2/#Ryan_Alexander)
     - [Crystal Huff - Dealing with Impostor syndrome](/2016/07/05/the-lead-developer-conference-day-2/#Crystal_Huff)
@@ -17,6 +19,8 @@ The Lead Developer conference, or at least the one I went to, was held on the 23
     - [Penny Wyatt - Overhead, not downtrodden](/2016/07/05/the-lead-developer-conference-day-2/#Penny_Wyatt)
     - [Melinda Seckington - How to succeed at hiring without really trying](/2016/07/05/the-lead-developer-conference-day-2/#Melinda_Seckington)
     - [Laura Czajkowski - How to deal with the cultural divide and internal advocacy within distributed teams](/2016/07/05/the-lead-developer-conference-day-2/#Laura_Czajkowski)
+    - [Camille Fournier - Rebooting Culture](/2016/07/05/the-lead-developer-conference-day-2/#Camille_Fournier)
+    - [In conclusion](/2016/07/05/the-lead-developer-conference-day-2/#Conclusion)
 
 ## Day 2<a name="Day_2">&nbsp;</a>
 
@@ -281,4 +285,69 @@ If I ever work remotely again I'll be sure to try out her tip on bringing your [
 
 Slides / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev21.md)
 
+### Camille Fournier - Rebooting Culture<a name="Camille_Fournier">&nbsp;</a>
+To close off this years [The Lead Developer Conference](http://2016.theleaddeveloper.com), Camille Fournier ([@skamille](http://twitter.com/@skamille)) talked about her own experience of bringing a _Culture of Fear_ to the team she managed the first time she became a leader, noticing this and how she changed it around.
 
+This was my first time experiencing Camille, and I don't know if it's because of her background as a developer, but **all** the things she pointed out, is very near to my heart. And she was talking about these things with such a passion... Validation feels great! So thanks Camille! :)
+
+#### Speed
+First she talked about _Speed_.
+
+She reminded us that engineers **like** to ship, and be a part of something that matters.
+
+Making sure your team can work as fast as they can is one of the most important things you can do. So remove _resource constraints_ (e.g. code freezes), and _be impatient with things that seem to take too long_.
+
+#### Structure
+Then she explained how good _Structure_ helps you get context quickly, and that _Structure comes from failure_. Failure in structure usually leads to getting rid of that structure, which isn't always an appropriate response.
+
+This reminded me of a story someone at our [LeanCoffee](https://leancoffeebelgium.org/) shared about a team that had visible bottlenecks in their scrumboard, and decided to stop doing scrum.
+
+_Ambiguity is a bias factor_, or how vagueness in job or role descriptions can be interpreted in a way that suits you. What you want instead is transparancy. 
+She showed this really quick example of an excel sheet with DnD traits being used as measuring points. Take a look at this once her slides are up.
+
+Here's another nod to HR and people tasked with doing performance reviews. If you keep changing the interpretations of vague roles
+
+Structure is **not** how to detail instructions on how to do it. If you find yourself doing this, ask yourself if you can't automate that instead.
+
+#### Relatedness
+Vulnerability is the opposite of a culture of fear.
+
+If I remember correctly I think she meant that when there's room for feelings of vulnerability, i.e. there's a safe environment to experiment and fail, both emotionally and technically, it empowers people.
+
+Like how [Kerth's Prime Directive](http://retrospectivewiki.org/index.php?title=The_Prime_Directive) makes for great retrospectives.
+
+Related to _Vulnerability_, you need to have _Healthy Conflict_.
+
+![Tina Turner wants violent conflict to resolve issues]({{site.url}}/public/assets/2016-07-05-the-lead-developer-conference-day-2/mad-max-beyond-thunderdome.jpg)
+
+Not because you're Tina Turner in [_Mad Max Beyond Thunderdome_](http://www.imdb.com/title/tt0089530/), but because it **draws out important data**.
+
+What I've noticed is when conflict is avoided all the time (as is [common in Belgium](https://en.wikipedia.org/wiki/2010%E2%80%9311_Belgian_government_formation)), nothing can be learned, and it can lead to passive aggressive behavior.
+
+Here's another tip for leaders. Telling people _You can't criticize if you can't come up with solutions yourself_ is a bad thing.
+
+Instead, ask them to **really** articulate their criticism. It's more effective to replace feelings of conflict with [curiousity](http://www.camilletalk.com/whilefalse/2015/03/get-curious.html).
+
+She also shared this fun definition of meetings:
+
+> A meeting consists of a group of people who have little to say - until after the meeting.
+
+#### Empathy
+Because Camille felt like we hadn't been given enough gems, she closed off her talk by telling us that _Empathy is a learnable skill._
+
+This is such an important statement actually. Much like how _Responsibility_ is generally considered a trait, so is _Empathy_. But they're both not.
+
+How is it learnable though? Camille told us it's as simple as asking about how somebody is doing, and **really** listen. Even if you don't really care all that much, just do it. In time, you _will_ care about Peter hurting his knee.
+
+In hindsight, her talk was the culmination of what I expected from this conference, and at the same time it was a summary of what all the presenters before her had been saying.
+
+What I'm trying to say is, watch her presentation when it's released!
+
+Slides / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev22.md)
+
+### In conclusion<a name="Conclusion">&nbsp;</a>
+Writing these blog posts have been great to recollect the abundance of shared knowledge and I'm glad I did, even though it took me quite some time. Hope you readers were also able get some use out of these posts.
+
+I'm so glad [Jan Sabbe](http://twitter.com/@jansabbe) recommended this conference to me last year. It really was an inspiring two days, full of new knowledge to share.
+
+Thanks again to everyone involved! Hope to see you next year!

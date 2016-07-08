@@ -41,7 +41,18 @@ I'm also turning this into 2 blog posts, because after writing Day 1 it already 
     - [Joel Chippindale - Telling stories through your commits](/2016/06/29/the-lead-developer-conference-day-1/#Joel_Chippindale)
     - [Sam Lambert - The argument for simplicity](/2016/06/29/the-lead-developer-conference-day-1/#Sam_Lambert)
     - [Nickolas Means - How to crash an airplane](/2016/06/29/the-lead-developer-conference-day-1/#Nickolas_Means)
-- [Day 2](/2016/06/29/Day_2)
+- [Day 2](/2016/07/05/the-lead-developer-conference-day-2)
+    - [Michael Lopp - Leadership by the numbers](/2016/07/05/the-lead-developer-conference-day-2/#Michael_Lopp)
+    - [Ryan Alexander - Hacking verbal communication systems](/2016/07/05/the-lead-developer-conference-day-2/#Ryan_Alexander)
+    - [Crystal Huff - Dealing with Impostor syndrome](/2016/07/05/the-lead-developer-conference-day-2/#Crystal_Huff)
+    - [Gil Zellner - How to not burn out your monitoring team](/2016/07/05/the-lead-developer-conference-day-2/#Gil_Zellner)
+    - [Monika Piotrowicz - Lessons from growing a team](/2016/07/05/the-lead-developer-conference-day-2/#Monika_Piotrowicz)
+    - [Thomas Lobinger - Working backwards from the customer](/2016/07/05/the-lead-developer-conference-day-2/#Thomas_Lobinger)
+    - [Penny Wyatt - Overhead, not downtrodden](/2016/07/05/the-lead-developer-conference-day-2/#Penny_Wyatt)
+    - [Melinda Seckington - How to succeed at hiring without really trying](/2016/07/05/the-lead-developer-conference-day-2/#Melinda_Seckington)
+    - [Laura Czajkowski - How to deal with the cultural divide and internal advocacy within distributed teams](/2016/07/05/the-lead-developer-conference-day-2/#Laura_Czajkowski)
+    - [Camille Fournier - Rebooting Culture](/2016/07/05/the-lead-developer-conference-day-2/#Camille_Fournier)
+    - [In conclusion](/2016/07/05/the-lead-developer-conference-day-2/#Conclusion)
 
 ## Day 1<a name="Day_1">&nbsp;</a>
 
