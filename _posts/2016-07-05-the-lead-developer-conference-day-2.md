@@ -15,6 +15,7 @@ The Lead Developer conference, or at least the one I went to, was held on the 23
     - [Monika Piotrowicz - Lessons from growing a team](/2016/07/05/the-lead-developer-conference-day-2/#Monika_Piotrowicz)
     - [Thomas Lobinger - Working backwards from the customer](/2016/07/05/the-lead-developer-conference-day-2/#Thomas_Lobinger)
     - [Penny Wyatt - Overhead, not downtrodden](/2016/07/05/the-lead-developer-conference-day-2/#Penny_Wyatt)
+    - [Melinda Seckington - How to succeed at hiring without really trying](/2016/07/05/the-lead-developer-conference-day-2/#Melinda_Seckington)
 
 ## Day 2<a name="Day_2">&nbsp;</a>
 
@@ -228,7 +229,6 @@ Maybe it's a great additional method to working on RFP's or starting teams aroun
 
 Slides / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev18.md)
 
-
 ### Penny Wyatt - Overhead, not downtrodden<a name="Penny_Wyatt">&nbsp;</a>
 Atlassian's Penny Wyatt ([@pennozewyatt](http://twitter.com/@pennozewyatt)) gave us a bunch of tips when working in Quality Assurance.
 
@@ -251,4 +251,21 @@ Instead of trying to get better quality by adding more developers, they can be a
 
 Slides / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev19.md)
 
+### Melinda Seckington - How to succeed at hiring without really trying<a name="Melinda_Seckington">&nbsp;</a>
+
+Melinda Seckington ([@mseckington](http://twitter.com/@mseckington)) made a compelling analogy of choosing between a closed box that had the label _strawberries_ on it, or a transparent box where you could actually **see** the strawberries along with a label containing nutritional value etc. to choosing a company you want to work for.
+
+Then she explained how at FutureLearn they're making the transparent box, by focusing internally on __helping__ colleagues write and speak, **authentically**.
+
+The idea is that by doing this, you turn developers in _evangelists_ for their teams (and by extension for your company).
+
+The amount of support devs at FutureLearn get for this goal is staggering, and FutureLearn's culture absolutely embodies this knowledge sharing and evangelism mindset.
+
+To me personally this was eye opening. Because I'll notice one of my colleagues has accomplished a great feat, and I'll ask them to blog about it, but they never actually do. Usually they'll come up with stuff like _I'm not an expert_, or _I can't write_, _I'm too nervous_, _I'm not a good speaker_, _Nothing I do is worth speaking about_, ...
+
+From now on, I'm going to try and change my approach, by offering to help them write or prepare for a presentation. Try to help them take away their fears and blockers.
+
+In any case, Melinda's talk is a presentation you should show to your HR colleagues and/or your guild leads. 
+
+[Slides](http://www.slideshare.net/mseckington/how-to-succeed-at-hiring-without-really-trying) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev20.md)
 
