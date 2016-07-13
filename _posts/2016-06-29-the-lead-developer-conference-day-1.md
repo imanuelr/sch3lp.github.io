@@ -155,6 +155,7 @@ To stay in the food analogies after a very nice lunch, Duretti's ([@Duretti](htt
 My favorite ones being _(Acceptance of) vulnerability leads to a learning culture_, _Coordination **IS** competitive advantage_, _Productivity is a measure of comfort_.
 
 She noticed what qualities a good team shows:
+
 * A good team wants _you_ to win
 * Has a sense of togetherness
 * Has a place for vulnerability.
