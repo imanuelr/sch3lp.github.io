@@ -254,4 +254,4 @@ A grasp out of some of his quotes:
 Slides / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev11.md)
 
 ## Day 2<a name="Day_2">&nbsp;</a>
-Still writing Day 2, hang in there... ;)
+Continue reading [Day 2](/2016/07/05/the-lead-developer-conference-day-2)!
