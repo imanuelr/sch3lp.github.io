@@ -12,6 +12,7 @@ This is a post about all of the talks of Day 2, and I'm sorry that this one is c
 - [Day 2](/2016/07/05/the-lead-developer-conference-day-2/#Day_2)
     - [Michael Lopp - Leadership by the numbers](/2016/07/05/the-lead-developer-conference-day-2/#Michael_Lopp)
     - [Ryan Alexander - Hacking verbal communication systems](/2016/07/05/the-lead-developer-conference-day-2/#Ryan_Alexander)
+    - [Yan Cui - Tour of language landscape](/2016/07/05/the-lead-developer-conference-day-2/#Yan_Cui)
     - [Crystal Huff - Dealing with Impostor syndrome](/2016/07/05/the-lead-developer-conference-day-2/#Crystal_Huff)
     - [Gil Zellner - How to not burn out your monitoring team](/2016/07/05/the-lead-developer-conference-day-2/#Gil_Zellner)
     - [Monika Piotrowicz - Lessons from growing a team](/2016/07/05/the-lead-developer-conference-day-2/#Monika_Piotrowicz)
@@ -51,7 +52,7 @@ This phrase fired a bunch of neurons in my brain _You set tone and cadence... **
 
 As an easy change, you could simply start and finish meetings on time, and show you respect peoples time. This can set the tone for the whole company to do the same.
 
-Watch his complete talk when it's released to find out what you might be _horrifically bad_ at, and how you might direct yourself to a path of learning how to become better at it. 
+Watch his [complete talk](https://vimeo.com/album/4045988/video/173246668) to find out what you might be _horrifically bad_ at, and how you might direct yourself to a path of learning how to become better at it. 
 
 Also delegate when you're in a stressy situations (e.g. the site is down). You know how to do it so let someone else do it and learn. Another great quote: 
 > Delegation is a great way to grow a team.
@@ -80,7 +81,7 @@ This is sort of a semi-conscious, complex algorithm going on in every participan
 
 I never thought about discussions or conversations like this, but it makes **SO** much sense.
 
-Then I learned about the _Occupy Together_ hand signals. Where you can announce your intent, without interrupting, to the participants in the conversation. Click the image for a clarifying explanation, or watch Ryans talk when it gets released.
+Then I learned about the _Occupy Together_ hand signals. Where you can announce your intent, without interrupting, to the participants in the conversation. Click the image for a clarifying explanation, or watch [Ryans talk](https://vimeo.com/album/4045988/video/173255458).
 
 [![]({{site.url}}/public/assets/2016-07-05-the-lead-developer-conference-day-2/occupy-hand-signals.jpg)](https://www.youtube.com/watch?v=dhJWd8-YAso)
 
@@ -99,7 +100,7 @@ Here's the stuff I'm able to recollect though.
 
 After a short introduction on the impact of language on the way we think, he showcased some really excellent examples of how features in certain programming languages can make your code more expressive. He took a bunch of features of `F#`, `Clojure`, `Rust` and `Idris` and explained how they could make your code less error prone and more expressive at the same time.
 
-If you're in to [DDD's Ubiquitous Language](http://martinfowler.com/bliki/UbiquitousLanguage.html), there's no doubt that you should watch this talk. Even if you have 0 experience with the languages Yan mentions.
+If you're in to [DDD's Ubiquitous Language](http://martinfowler.com/bliki/UbiquitousLanguage.html), there's no doubt that you should [watch this talk](https://vimeo.com/album/4045988/video/173256765). Even if you have 0 experience with the languages Yan mentions.
 
 He closes off his talk by encouraging everyone that didn't know the programming languages he mentioned. He did this through debunking Malcolm Gladwell's ["10,000 hours to master something" rule](https://en.wikipedia.org/wiki/Outliers_(book)), with [Josh Kaufmans correction](https://www.youtube.com/watch?v=5MgBikgcWnY) that says you can already be "good" at something after the first 20 hours.
 
@@ -226,7 +227,7 @@ Of course Thomas doesn't just write these documents once and then be done with t
 
 So really what they've done is come up with a sort of _Living Documentation_ that is able to continuously provide a _Shared Understanding_ and _Shared Values_ on a team.
 
-If you're looking for more information about this, it seems Werner Vogels ([@werner](http://twitter.com/@werner)) already wrote a [blog post](http://www.allthingsdistributed.com/2006/11/working_backwards.html) about this exact method back in 2006.
+If you're looking for more information about this, it seems Werner Vogels ([@werner](http://twitter.com/@werner)) already wrote a [blog post](http://www.allthingsdistributed.com/2006/11/working_backwards.html) about this exact method back in 2006. Or simply watch [his talk](https://vimeo.com/album/4045988/video/173322920).
 
 I do believe that it'll work better for products you're making yourself and innovations, rather than projects you do for clients, because there are no feedback loops from clients. But it's easy to imagine asking the questions or verifying the assumptions that will come up when creating these documents.
 
@@ -279,7 +280,7 @@ Laura Czajkowski ([@czajkowski](http://twitter.com/@czajkowski)) works from home
 
 If you ever did some remoting yourself, you'll recognize a lot of her descriptions. Most notably missing social talk and work discussions because of the absence of a watercooler (or coffee room), and lag (delay) issues with VOIP tools.
 
-Watch her presentation when it gets posted online for some pro tips on dealing with these situations.
+Watch [her presentation](https://vimeo.com/album/4045988/video/173322922) for some pro tips on dealing with these situations.
 
 If I ever work remotely again I'll be sure to try out her tip on bringing your [morning beverage](https://twitter.com/Czajkowski/status/751467083066667009) to the friday mornings stand-up, and talk a bit about your weekend plans. This helps in getting to know your remote colleagues a bit more.
 
@@ -341,7 +342,7 @@ How is it learnable though? Camille told us it's as simple as asking about how s
 
 In hindsight, her talk was the culmination of what I expected from this conference, and at the same time it was a summary of what all the presenters before her had been saying.
 
-What I'm trying to say is, watch her presentation when it's released!
+What I'm trying to say is, watch [her presentation](https://vimeo.com/album/4045988/video/173328699) now!
 
 Slides / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev22.md)
 

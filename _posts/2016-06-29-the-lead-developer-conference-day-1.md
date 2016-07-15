@@ -135,7 +135,7 @@ I remember that Webhooks are less chatty, and that its content is usually large 
 ### Dan North - How to make a sandwich<a name="Dan_North">&nbsp;</a>
 Dan ([@tastapod](http://twitter.com/@tastapod)) North, the man, the Legend, gave a really great talk about _Feedback_.
 
-He first talked about Feedback in the context of Systems Theory, which he does a way better job at explaining than I ever will so watch the video when it's released.
+He first talked about Feedback in the context of Systems Theory, which he does a way better job at explaining than I ever will, so watch the [video](https://vimeo.com/album/4045988/video/172711357).
 
 The most important thing I picked up about this part is that there are different motivations why one would offer feedback. And that when you notice you would be offering feedback to control the one you're giving feedback to, you should just walk away.
 
@@ -162,7 +162,7 @@ She noticed what qualities a good team shows:
 * Is psychologically safe
 * Has empathy
 
-Nice talk with a whole lot of truth bombs. Worth watching when the video's get released.
+Nice talk with a whole lot of truth bombs. Worth [watching](https://vimeo.com/album/4045988/video/172711355)!
 
 [Slides](https://speakerdeck.com/duretti/how-to-get-engineering-teams-to-eat-their-vegetables) / [Notes](https://github.com/Sch3lp/LeadDevNotes/blob/master/leaddev6.md)
 
@@ -194,7 +194,7 @@ Then your network might be too homogeneous.
 
 This might turn your networks into gate**keepers** instead of welcoming, open gates.
 
-A very refreshing and interesting talk, with a very smart and very fun to listen to speaker. Definitely watch her talk when it gets released. 
+A very refreshing and interesting talk, with a very smart and very fun to listen to speaker. Definitely watch [her talk](https://vimeo.com/album/4045988/video/172872483). 
 
 If you're interested in more of her research, definitely check out [her website](http://frau-dingens.de/). She's currently working on a series of articles on [_The Habitus of Tech_](http://frau-dingens.de/the-habitus-of-tech/).
 
@@ -239,7 +239,7 @@ Jezus christ, how do I even begin summarizing this talk.
 Nickolas ([@nmeans](http://twitter.com/@nmeans), glorious beardy man, airplane afficionado, ...) left the audience mesmerized and awe struck after channeling his inner _Shaman_, telling us a story about how a horrible plane crash could've turned out even worse if it weren't for _Cockpit Resource Management_.
 And making the analogy to what makes up a good team.
 
-If there's one presentation you should watch of this conference, it's this one.
+If there's one presentation you should watch of this conference, it's [this one](https://vimeo.com/album/4045988/video/173246615).
 
 A grasp out of some of his quotes:
 
