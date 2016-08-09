@@ -4,7 +4,7 @@ title: The Lead Developer Conference - Recommendations
 tags: [experience-report]
 published: true
 ---
-I blogged about [Day 1](/2016/06/29/the-lead-developer-conference-day-1) and [Day 2](/2016/06/29/the-lead-developer-conference-day-2) of [The Lead Developer](http://2016.theleaddeveloper.com) conference in London.
+I blogged about [Day 1](/2016/06/29/the-lead-developer-conference-day-1) and [Day 2](/2016/07/05/the-lead-developer-conference-day-2) of [The Lead Developer](http://2016.theleaddeveloper.com) conference in London.
 
 The [videos](https://vimeo.com/album/4045988) have been released today, so here's an easier way of watching all the presentations I recommended in those previous posts.
 
