@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            Tim Schraepen's Blog
-tagline:          'Yet another java developers blog.'
-description:      'Blog of Tim Schraepen, java developer at Cegeka.'
+tagline:          'Yet another developer blog.'
+description:      'Blog of Tim Schraepen, developer.'
 url:              http://sch3lp.github.io
 baseurl:          '/'
 paginate:         5
