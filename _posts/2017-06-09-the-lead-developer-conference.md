@@ -101,7 +101,33 @@ Something important he added though, is that you can also improve Mental Models 
 
 
 ### Dominika Rogala - Things you wish you shared with your team before they agreed on that deadline <a name="#Dominika_Rogala">&nbsp;</a>
+Deadlines are known to get missed. But is there a way to prevent this from happening?
 
+Dominika asked us these questions, and I'd like for you to give answers to these as well.
+
+How many days are there in a year? ... How many in a week?
+
+If you answered 365 and 7, you'd be wrong. 
+
+There's about 250 workdays in a year, and that's without counting holidays.
+
+Same for days in a week, there are only 5. Now think about how much of one day you can actually get work done. That means focused, non-interrupted work. So absolutely no context-switches, no mails, meetings, ...
+
+This was eye opening to me, especially because it seems so trivial. She also gave a very clear example of the _I'll do it in the meantime_ myth. Something I intend to pay attention to next time I find myself responding with that very sentence.
+
+There was also this fine example of how assuming that ordering electronics parts in China during februari _is going to be fine_. When there's something like _Chinese New Year_ and all shops are closed for 2 weeks. Specifically she called this the unpredictability trap. I think in general you can classify it under assumption. It'll be easier to think about whether or not your assuming something.
+
+Then she talked about this thing called _common priority_. For example, for Christmas dinner, everyone is always _on time_ because there's this common intent of being together. But when there is none defined, the _default priority_ kicks in. This is an individual one though, which leads to more assumption and miscommunications.
+
+For example, if you don't communicate that you'd rather get the guaranteed delivery on a shipment, than the cheaper delivery, your team might think they're doing you a favor in cutting costs. Where you might miss a deadline because delivery got delayed.
+
+So next time you need to estimate something, make sure that the ones estimating know:
+
+* what time they have
+* what traps they can fall into
+* and what the common priorities are
+
+Make sure **they** know, what **you** know.
 
 ### Adrian Howard - How to talk to earthlings <a name="#Adrian_Howard">&nbsp;</a>
 
