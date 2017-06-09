@@ -21,3 +21,10 @@ With all things equal.
 ## How did you decide on your values?
 Added first things that came to mind, that I might not spend enough time on, or that I know for a fact I spend time on.
 
+## Adding _Work_ to the scale
+
+## Orientation
+Values in columns (me) vs. values in rows (my mom).
+
+Columns: "infinite height", because I don't know how high some values might become.
+Rows: "no infinite height", because it sooner gets limited by available wall space.
