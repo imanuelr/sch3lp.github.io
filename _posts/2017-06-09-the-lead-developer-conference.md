@@ -73,6 +73,7 @@ This tooooootally hit home for me. As it did in some other talks as well. This i
 _Don't be a maker, be a multiplier._
 
 Accept your role as Lead Dev and don't just focus on making stuff anymore. Pay forward your knowledge and mentor people, in order to _multiply_ your ideas, etc.
+This completely changes your measurements of success!
 
 Read about how people really differ: [Strengthsfinder (2.0)](https://www.amazon.com/StrengthsFinder-2-0-Tom-Rath/dp/159562015X).
 
@@ -80,7 +81,7 @@ Read about how people really differ: [Strengthsfinder (2.0)](https://www.amazon.
 
 Simon Wardly's maps. Pioneers, Settlers, Town Planners
 
-He briefly touched on diversity as well. In that diversity in and of itself is not necessarily beneficial. It's strength only works when you allow it. 
+He briefly touched on diversity as well. In that diversity in and of itself is not necessarily beneficial. It's strength only works when you allow it.
 
 I think what he meant by that is that creating a diverse team of itself isn't enough. Your job is to enable and maintain a safe environment for the diversity to foster. So that diverse ideas pop up automatically. This is no easy task, there is a danger of stereotypes popping up, instead of thinking of archetypes.
 
@@ -99,6 +100,7 @@ It sounded like _Think before you Act_, and also his topic about reusing princip
 
 Something important he added though, is that you can also improve Mental Models via coaching (being coached). It's paramount for Lead Devs to get your mentees to that _Aha_ moment, so they can improve their Mental Model.
 
+_Interpretation_ I think what is important is seeing the difference in thinking about changing the way your action is executed (a retrospective). And seeking a way to apply these lessons learned to a more abstract level, so that you can apply changes to other actions that resemble the previous action in one way, but are not necessarily the same action (second learning loop).
 
 ### Dominika Rogala - Things you wish you shared with your team before they agreed on that deadline <a name="#Dominika_Rogala">&nbsp;</a>
 Deadlines are known to get missed. But is there a way to prevent this from happening?
@@ -107,7 +109,7 @@ Dominika asked us these questions, and I'd like for you to give answers to these
 
 How many days are there in a year? ... How many in a week?
 
-If you answered 365 and 7, you'd be wrong. 
+If you answered 365 and 7, you'd be wrong.
 
 There's about 250 workdays in a year, and that's without counting holidays.
 
